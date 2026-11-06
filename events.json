@@ -1,0 +1,27 @@
+{
+  "updated_at": "2026-11-06T15:27:44.819571+00:00",
+  "source": "Eventsimple",
+  "events": [
+    {
+      "title": "Nico Santos: Arena Tour 2026",
+      "url": "https://www.olympiapark.de/de/veranstaltungen/nico-santos-n4733",
+      "when": "Tue 10.11. 19:30",
+      "venue": "Olympiahalle",
+      "category": "KONZERT & MUSIK"
+    },
+    {
+      "title": "Zehn Leben",
+      "url": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/zehn-leben-villa-stuck",
+      "when": "Heute",
+      "venue": "Museum Villa Stuck",
+      "category": "KUNST & AUSSTELLUNG"
+    },
+    {
+      "title": "Steina: Playback",
+      "url": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/steina-playback",
+      "when": "Heute",
+      "venue": "Haus der Kunst",
+      "category": "KUNST & AUSSTELLUNG"
+    }
+  ]
+}
