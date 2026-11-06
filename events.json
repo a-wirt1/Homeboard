@@ -1,55 +1,91 @@
 {
-  "updated_at": "2026-11-06T15:41:26.328152+00:00",
-  "source": "Eventsimple",
+  "updated_at": "2026-11-06T15:54:22.533958+00:00",
+  "source": "Eventsimple, EventIndex, Evensos (when available)",
   "events": [
     {
       "title": "Zehn Leben",
       "url": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/zehn-leben-villa-stuck",
       "when": "Heute",
       "venue": "Museum Villa Stuck",
-      "category": "KUNST & AUSSTELLUNG"
-    },
-    {
-      "title": "Nico Santos: Arena Tour 2026",
-      "url": "https://www.olympiapark.de/de/veranstaltungen/nico-santos-n4733",
-      "when": "Tue 10.11. 19:30",
-      "venue": "Olympiahalle",
-      "category": "KONZERT & MUSIK"
+      "category": "KUNST"
     },
     {
       "title": "Steina: Playback",
       "url": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/steina-playback",
       "when": "Heute",
       "venue": "Haus der Kunst",
-      "category": "KUNST & AUSSTELLUNG"
+      "category": "KUNST"
     },
     {
       "title": "Between and Beyond. Der erweiterte Bildraum",
       "url": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/between-and-beyond",
       "when": "Heute",
       "venue": "Pinakothek der Moderne",
-      "category": "KUNST & AUSSTELLUNG"
+      "category": "KUNST"
     },
     {
       "title": "Freie Maschinen",
       "url": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/freie-maschinen",
       "when": "Heute",
       "venue": "Deutsches Museum München",
-      "category": "KUNST & AUSSTELLUNG"
+      "category": "KUNST"
     },
     {
       "title": "Barcelona Moderna – Von Gaudí bis Picasso",
       "url": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/barcelona-moderna",
       "when": "Heute",
       "venue": "Kunsthalle München",
-      "category": "KUNST & AUSSTELLUNG"
+      "category": "KUNST"
     },
     {
       "title": "Maria Jarema",
       "url": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/maria-jarema",
       "when": "Heute",
       "venue": "Lenbachhaus",
-      "category": "KUNST & AUSSTELLUNG"
+      "category": "KUNST"
+    },
+    {
+      "title": "electronica 2026",
+      "url": "https://messe-muenchen.de/de/veranstaltungen/electronica-2026.html",
+      "when": "Tue 10.11.",
+      "venue": "Trade Fair Center Messe München",
+      "category": "MESSE"
+    },
+    {
+      "title": "SEMICON Europa 2026",
+      "url": "https://messe-muenchen.de/de/veranstaltungen/semicon-europa-2026.html",
+      "when": "Tue 10.11.",
+      "venue": "Trade Fair Center Messe München",
+      "category": "MESSE"
+    },
+    {
+      "title": "Good Charlotte - Motel Du Cap EU/UK Tour",
+      "url": "https://www.evensos.de/event/good-charlotte-motel-du-cap-eu-uk-tour",
+      "when": "Wed 11.11. 20:00",
+      "venue": "Unknown venue",
+      "category": "EVENT"
     }
-  ]
+  ],
+  "source_stats": {
+    "Eventsimple": {
+      "raw": 13,
+      "eligible": 11,
+      "status": "ok"
+    },
+    "EventIndex": {
+      "raw": 0,
+      "eligible": 0,
+      "status": "error: unexpected EventIndex response"
+    },
+    "Evensos": {
+      "raw": 40,
+      "eligible": 2,
+      "status": "ok"
+    },
+    "Rausgegangen": {
+      "raw": 0,
+      "eligible": 0,
+      "status": "not connected: no verified public API/feed"
+    }
+  }
 }
