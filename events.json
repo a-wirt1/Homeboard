@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T15:54:22.533958+00:00",
+  "updated_at": "2026-11-06T16:11:19.449646+00:00",
   "source": "Eventsimple, EventIndex, Evensos (when available)",
   "events": [
     {
@@ -75,7 +75,7 @@
     "EventIndex": {
       "raw": 0,
       "eligible": 0,
-      "status": "error: unexpected EventIndex response"
+      "status": "error: unexpected EventIndex response (keys=@context,data,meta)"
     },
     "Evensos": {
       "raw": 40,
