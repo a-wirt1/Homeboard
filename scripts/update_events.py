@@ -16,7 +16,7 @@ TZ = ZoneInfo('Europe/Berlin')
 NOW = datetime.now(TZ)
 UNTIL = NOW + timedelta(days=10)
 OUT = Path('events.json')
-HEADERS = {'User-Agent': 'Homeboard/5.2 (personal event recommendations)', 'Accept': 'application/json, application/ld+json'}
+HEADERS = {'User-Agent': 'Homeboard/5.3 (personal event recommendations)', 'Accept': 'application/json, application/ld+json'}
 BOOST = {'coffee rave': 30, 'day rave': 30, 'dayrave': 30, 'rave': 20, 'techno': 16,
          'house music': 15, 'house party': 15, 'disco': 12, 'dj set': 12, 'clubnacht': 13,
          'street food': 20, 'streetfood': 20, 'food festival': 20, 'supper club': 18,
@@ -123,32 +123,46 @@ def eventindex():
     params = {'lat': 48.1374, 'lng': 11.5755, 'radius': 20,
               'from': NOW.date().isoformat(), 'to': UNTIL.date().isoformat(), 'limit': 100}
     raw = get('https://eventindex.io/api/v1/events?' + urllib.parse.urlencode(params))
-    rows = raw.get('hits') if isinstance(raw, dict) else None
-    if not isinstance(rows, list):
-        raise ValueError('unexpected EventIndex response')
+    # The documented format uses `hits`. Alternate JSON-LD collection wrappers
+    # are accepted, but an unknown response is reported rather than guessed.
+    rows = None
+    if isinstance(raw, dict):
+        for key in ('hits', 'itemListElement', 'items', 'events', '@graph'):
+            if isinstance(raw.get(key), list):
+                rows = raw[key]
+                break
+    elif isinstance(raw, list):
+        rows = raw
+    if rows is None:
+        shape = ('keys=' + ','.join(sorted(str(k) for k in raw.keys())[:15])) if isinstance(raw, dict) else ('type=' + type(raw).__name__)
+        raise ValueError('unexpected EventIndex response (' + shape + ')')
     result = []
-    for e in rows:
+    detail_requests = 0
+    for entry in rows:
+        e = entry.get('item', entry) if isinstance(entry, dict) else None
         if not isinstance(e, dict):
             continue
         url = e.get('url') or e.get('event_url') or e.get('website') or ''
-        if not url and e.get('slug'):
-            # Documented detail API: use its returned canonical URL only.
+        # Detail endpoint is documented; its public canonical URL is not.
+        # Limit additional requests to avoid hitting the anonymous rate limit.
+        if not url and e.get('slug') and detail_requests < 12:
+            detail_requests += 1
             try:
                 detail = get('https://eventindex.io/api/v1/events/' + urllib.parse.quote(str(e['slug']), safe=''))
                 if isinstance(detail, dict):
                     url = detail.get('url') or detail.get('event_url') or detail.get('website') or ''
             except Exception:
                 pass
-        # The search API documents slug, but not a human-readable detail-page URL.
-        # Never invent one; omit entries without an actual source link.
+        tags = e.get('tags', [])
+        category = ' '.join(str(t) for t in tags) if isinstance(tags, list) else string(tags)
         item = candidate(e.get('title') or e.get('name'), url,
                          dt(e.get('start_date') or e.get('startDate')),
                          dt(e.get('end_date') or e.get('endDate')),
-                         e.get('venue') or e.get('location'),
-                         ' '.join(e.get('tags', [])) if isinstance(e.get('tags'), list) else '',
-                         e.get('description'), 'EventIndex', e.get('city', ''))
+                         place_name(e.get('venue') or e.get('location')),
+                         category, e.get('description'), 'EventIndex', e.get('city', ''))
         if item:
             result.append(item)
+    print('EventIndex detail requests: %d' % detail_requests)
     return len(rows), result
 
 
