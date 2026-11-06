@@ -14,7 +14,31 @@ from zoneinfo import ZoneInfo
 TZ = ZoneInfo('Europe/Berlin')
 OUTPUT = Path('events.json')
 CATEGORIES = {'konzert', 'festival', 'party', 'kunst', 'film', 'markt', 'essen', 'vortrag', 'theater', 'stadtfest'}
-PRIORITY = {'essen': 6, 'markt': 6, 'festival': 5, 'konzert': 5, 'party': 4, 'kunst': 4, 'film': 3, 'stadtfest': 4, 'vortrag': 2, 'theater': 2}
+PRIORITY = {'essen': 5, 'markt': 5, 'festival': 4, 'konzert': 0, 'party': 7, 'kunst': 1, 'film': 2, 'stadtfest': 2, 'vortrag': 0, 'theater': -2}
+BOOST = {
+    'coffee rave': 18, 'day rave': 18, 'dayrave': 18, 'daytime rave': 17,
+    'rave': 12, 'techno': 9, 'house music': 9, 'disco': 7, 'dj set': 7,
+    'street food': 13, 'streetfood': 13, 'food festival': 13, 'food market': 11,
+    'pop-up': 9, 'popup': 9, 'tasting': 7, 'supper club': 10,
+    'fotografie': 13, 'photography': 13, 'fotoausstellung': 13,
+    'vintage': 9, 'designmarkt': 9, 'flohmarkt': 6, 'independent': 5,
+}
+PENALTY = {
+    'arena tour': -18, 'olympiahalle': -13, 'stadion': -12,
+    'klassische musik': -10, 'sinfonie': -10, 'oper': -9,
+    'meisterwerke': -6, 'gemälde': -5,
+}
+
+def relevance(title, venue, category):
+    text = (title + ' ' + venue).casefold()
+    score = PRIORITY.get(category, 0)
+    for word, value in BOOST.items():
+        if word in text:
+            score += value
+    for word, value in PENALTY.items():
+        if word in text:
+            score += value
+    return score
 
 def dt(value):
     if not isinstance(value, str) or not value:
@@ -55,7 +79,7 @@ def normalize(e, now):
         when += ' ' + start.strftime('%H:%M')
     return {'title': title, 'url': url, 'when': when, 'venue': venue,
             'category': clean(e.get('category_label') or category, 30).upper(),
-            '_category': category, '_start': start, '_score': PRIORITY.get(category, 0)}
+            '_category': category, '_start': start, '_score': relevance(title, venue, category)}
 
 def main():
     now = datetime.now(TZ)
@@ -68,7 +92,7 @@ def main():
     if not isinstance(raw, dict) or not isinstance(raw.get('events'), list):
         raise ValueError('Eventsimple returned an unexpected JSON structure')
     candidates = [x for event in raw['events'] if (x := normalize(event, now))]
-    # Prioritise varied cultural/food tips; avoid filling all three slots with one category.
+    # Rank by preferred scene events, with date as tie-breaker.
     candidates.sort(key=lambda e: (-e['_score'], e['_start']))
     selected, seen_titles, seen_categories = [], set(), set()
     for diversity in (True, False):
@@ -79,9 +103,9 @@ def main():
             selected.append(item)
             seen_titles.add(key)
             seen_categories.add(item['_category'])
-            if len(selected) == 3:
+            if len(selected) == 9:
                 break
-        if len(selected) == 3:
+        if len(selected) == 9:
             break
     public = [{k: v for k, v in e.items() if not k.startswith('_')} for e in selected]
     data = {'updated_at': datetime.now(timezone.utc).isoformat(), 'source': 'Eventsimple', 'events': public}
