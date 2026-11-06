@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-"""Select Munich events from Eventsimple's documented public JSON API.
-No API key or personal data. Intended for GitHub Actions every few hours.
+"""Homeboard Munich events: Eventsimple + EventIndex + Evensos.
+Rausgegangen is deliberately not scraped: no verified public feed.
+Python 3.9+, standard library only. Failures in optional sources do not block others.
 """
 import json
 import re
@@ -12,33 +13,31 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 TZ = ZoneInfo('Europe/Berlin')
-OUTPUT = Path('events.json')
-CATEGORIES = {'konzert', 'festival', 'party', 'kunst', 'film', 'markt', 'essen', 'vortrag', 'theater', 'stadtfest'}
-PRIORITY = {'essen': 5, 'markt': 5, 'festival': 4, 'konzert': 0, 'party': 7, 'kunst': 1, 'film': 2, 'stadtfest': 2, 'vortrag': 0, 'theater': -2}
-BOOST = {
-    'coffee rave': 18, 'day rave': 18, 'dayrave': 18, 'daytime rave': 17,
-    'rave': 12, 'techno': 9, 'house music': 9, 'disco': 7, 'dj set': 7,
-    'street food': 13, 'streetfood': 13, 'food festival': 13, 'food market': 11,
-    'pop-up': 9, 'popup': 9, 'tasting': 7, 'supper club': 10,
-    'fotografie': 13, 'photography': 13, 'fotoausstellung': 13,
-    'vintage': 9, 'designmarkt': 9, 'flohmarkt': 6, 'independent': 5,
-}
-PENALTY = {
-    'arena tour': -18, 'olympiahalle': -13, 'stadion': -12,
-    'klassische musik': -10, 'sinfonie': -10, 'oper': -9,
-    'meisterwerke': -6, 'gemälde': -5,
-}
+NOW = datetime.now(TZ)
+UNTIL = NOW + timedelta(days=10)
+OUT = Path('events.json')
+HEADERS = {'User-Agent': 'Homeboard/5.2 (personal event recommendations)', 'Accept': 'application/json, application/ld+json'}
+BOOST = {'coffee rave': 30, 'day rave': 30, 'dayrave': 30, 'rave': 20, 'techno': 16,
+         'house music': 15, 'house party': 15, 'disco': 12, 'dj set': 12, 'clubnacht': 13,
+         'street food': 20, 'streetfood': 20, 'food festival': 20, 'supper club': 18,
+         'pop-up': 14, 'popup': 14, 'tasting': 10, 'kulinar': 10, 'food': 8,
+         'fotografie': 20, 'photography': 20, 'fotoausstellung': 20,
+         'vintage': 16, 'designmarkt': 16, 'flohmarkt': 12, 'kreativmarkt': 14,
+         'nightlife': 10, 'party': 9, 'markt': 5, 'festival': 5}
+PENALTY = {'arena tour': -35, 'olympiahalle': -28, 'stadion': -25,
+           'sinfonie': -15, 'oper': -15, 'klassische musik': -15,
+           'nico santos': -30, 'meisterwerke': -8}
+CATEGORY_SCORE = {'party': 13, 'nightlife': 13, 'essen': 10, 'food-drink': 10,
+                  'markt': 9, 'maerkte': 9, 'festival': 7, 'festivals': 7,
+                  'kunst': 3, 'arts': 3, 'konzert': 0, 'music': 2, 'concerts': 0,
+                  'film': 1, 'theater': -5, 'sport': -8, 'business': -8}
 
-def relevance(title, venue, category):
-    text = (title + ' ' + venue).casefold()
-    score = PRIORITY.get(category, 0)
-    for word, value in BOOST.items():
-        if word in text:
-            score += value
-    for word, value in PENALTY.items():
-        if word in text:
-            score += value
-    return score
+
+def get(url):
+    request = urllib.request.Request(url, headers=HEADERS)
+    with urllib.request.urlopen(request, timeout=22) as response:
+        return json.load(response)
+
 
 def dt(value):
     if not isinstance(value, str) or not value:
@@ -49,70 +48,176 @@ def dt(value):
     except ValueError:
         return None
 
-def clean(value, maxlen):
-    return re.sub(r'\s+', ' ', str(value or '')).strip()[:maxlen]
 
-def normalize(e, now):
-    if not isinstance(e, dict):
+def string(value, limit=140):
+    if isinstance(value, dict):
+        value = value.get('name') or value.get('value') or ''
+    if isinstance(value, list):
+        value = ' '.join(str(v) for v in value if isinstance(v, str))
+    return re.sub(r'\s+', ' ', str(value or '')).strip()[:limit]
+
+
+def place_name(value):
+    if isinstance(value, dict):
+        return string(value.get('name') or (value.get('address') or {}).get('addressLocality') if isinstance(value.get('address'), dict) else value.get('name'), 65)
+    return string(value, 65)
+
+
+def city_of(value):
+    if isinstance(value, dict):
+        address = value.get('address') or {}
+        if isinstance(address, dict):
+            return string(address.get('addressLocality')).casefold()
+    return ''
+
+
+def candidate(title, url, start, end=None, venue='', category='', description='', source='', city=''):
+    title, url = string(title, 110), string(url, 600)
+    if not title or not url.startswith('https://') or not start:
         return None
-    category = str(e.get('category') or '').lower()
-    if category not in CATEGORIES or str(e.get('city') or '').casefold() not in ('münchen', 'muenchen', 'munich'):
+    if city and city.casefold() not in ('münchen', 'muenchen', 'munich'):
         return None
-    start = dt(e.get('starts_at'))
-    end = dt(e.get('ends_at')) or start
-    if not start or end < now or start > now + timedelta(days=7):
+    end = end or start
+    if end < NOW or start > UNTIL:
         return None
-    title = clean(e.get('title'), 110)
-    venue = clean(e.get('venue') or 'München', 65)
-    url = e.get('url')
-    if not isinstance(url, str) or not url.startswith('https://'):
-        relative = e.get('detail_url')
-        if not isinstance(relative, str) or not relative.startswith('/veranstaltung/'):
-            return None
-        url = 'https://eventsimple.de' + relative
-    if not title:
-        return None
-    # Multi-day exhibitions may have started weeks ago: display "Heute" rather than the past opening date.
-    display_date = max(start, now) if end >= now else start
-    when = ('Heute' if start < now else display_date.strftime('%a %d.%m.'))
-    if not e.get('all_day') and start >= now:
-        when += ' ' + start.strftime('%H:%M')
-    return {'title': title, 'url': url, 'when': when, 'venue': venue,
-            'category': clean(e.get('category_label') or category, 30).upper(),
-            '_category': category, '_start': start, '_score': relevance(title, venue, category)}
+    category = string(category, 35).lower()
+    text = ' '.join((title, string(venue), category, string(description, 350))).casefold()
+    score = CATEGORY_SCORE.get(category, 0)
+    for term, points in BOOST.items():
+        if term in text:
+            score += points
+    for term, points in PENALTY.items():
+        if term in text:
+            score += points
+    # Exclude obvious irrelevant results, but allow a sparse week to show weaker choices.
+    when = 'Heute' if start < NOW else start.strftime('%a %d.%m.') + (' ' + start.strftime('%H:%M') if start.hour or start.minute else '')
+    return {'title': title, 'url': url, 'when': when, 'venue': string(venue, 65) or 'München',
+            'category': category.upper() or 'EVENT', '_source': source, '_start': start,
+            '_score': score, '_category': category}
+
+
+def eventsimple():
+    params = {'from': NOW.date().isoformat(), 'to': UNTIL.date().isoformat(),
+              'city': 'München', 'country': 'DE', 'limit': '1000'}
+    raw = get('https://eventsimple.de/api/events?' + urllib.parse.urlencode(params))
+    rows = raw.get('events') if isinstance(raw, dict) else None
+    if not isinstance(rows, list):
+        raise ValueError('unexpected Eventsimple response')
+    result = []
+    for e in rows:
+        if not isinstance(e, dict):
+            continue
+        url = e.get('url')
+        if not isinstance(url, str) or not url.startswith('https://'):
+            rel = e.get('detail_url', '')
+            url = 'https://eventsimple.de' + rel if isinstance(rel, str) and rel.startswith('/veranstaltung/') else ''
+        item = candidate(e.get('title'), url, dt(e.get('starts_at')),
+                         dt(e.get('ends_at')), e.get('venue'), e.get('category'),
+                         e.get('description'), 'Eventsimple', e.get('city', ''))
+        if item:
+            result.append(item)
+    return len(rows), result
+
+
+def eventindex():
+    params = {'lat': 48.1374, 'lng': 11.5755, 'radius': 20,
+              'from': NOW.date().isoformat(), 'to': UNTIL.date().isoformat(), 'limit': 100}
+    raw = get('https://eventindex.io/api/v1/events?' + urllib.parse.urlencode(params))
+    rows = raw.get('hits') if isinstance(raw, dict) else None
+    if not isinstance(rows, list):
+        raise ValueError('unexpected EventIndex response')
+    result = []
+    for e in rows:
+        if not isinstance(e, dict):
+            continue
+        url = e.get('url') or e.get('event_url') or e.get('website') or ''
+        if not url and e.get('slug'):
+            # Documented detail API: use its returned canonical URL only.
+            try:
+                detail = get('https://eventindex.io/api/v1/events/' + urllib.parse.quote(str(e['slug']), safe=''))
+                if isinstance(detail, dict):
+                    url = detail.get('url') or detail.get('event_url') or detail.get('website') or ''
+            except Exception:
+                pass
+        # The search API documents slug, but not a human-readable detail-page URL.
+        # Never invent one; omit entries without an actual source link.
+        item = candidate(e.get('title') or e.get('name'), url,
+                         dt(e.get('start_date') or e.get('startDate')),
+                         dt(e.get('end_date') or e.get('endDate')),
+                         e.get('venue') or e.get('location'),
+                         ' '.join(e.get('tags', [])) if isinstance(e.get('tags'), list) else '',
+                         e.get('description'), 'EventIndex', e.get('city', ''))
+        if item:
+            result.append(item)
+    return len(rows), result
+
+
+def evensos():
+    # Public documented city-specific JSON-LD list. Try German and English city slugs.
+    raw = None
+    for slug in ('muenchen', 'munich'):
+        try:
+            raw = get('https://www.evensos.de/events/' + slug + '.json')
+            break
+        except Exception:
+            pass
+    if raw is None:
+        raise ValueError('neither city feed responded')
+    rows = raw.get('dataFeedElement') if isinstance(raw, dict) else None
+    if not isinstance(rows, list):
+        raise ValueError('unexpected Evensos DataFeed response')
+    result = []
+    for entry in rows:
+        e = entry.get('item', entry) if isinstance(entry, dict) else None
+        if not isinstance(e, dict):
+            continue
+        location = e.get('location') or {}
+        category = e.get('eventType') or e.get('keywords') or e.get('genre') or ''
+        item = candidate(e.get('name'), e.get('url') or e.get('@id'),
+                         dt(e.get('startDate')), dt(e.get('endDate')),
+                         place_name(location), category, e.get('description'),
+                         'Evensos', city_of(location))
+        if item:
+            result.append(item)
+    return len(rows), result
+
+
+def dedup_key(e):
+    title = re.sub(r'[^a-z0-9äöüß]+', '', e['title'].casefold())
+    # same title + day, regardless of source
+    return (title, e['_start'].date().isoformat())
+
 
 def main():
-    now = datetime.now(TZ)
-    params = {'from': now.date().isoformat(), 'to': (now + timedelta(days=7)).date().isoformat(),
-              'city': 'München', 'country': 'DE', 'category': ','.join(sorted(CATEGORIES)), 'limit': '1000'}
-    url = 'https://eventsimple.de/api/events?' + urllib.parse.urlencode(params)
-    req = urllib.request.Request(url, headers={'User-Agent': 'Homeboard/1.0 (private dashboard)', 'Accept': 'application/json'})
-    with urllib.request.urlopen(req, timeout=25) as response:
-        raw = json.load(response)
-    if not isinstance(raw, dict) or not isinstance(raw.get('events'), list):
-        raise ValueError('Eventsimple returned an unexpected JSON structure')
-    candidates = [x for event in raw['events'] if (x := normalize(event, now))]
-    # Rank by preferred scene events, with date as tie-breaker.
-    candidates.sort(key=lambda e: (-e['_score'], e['_start']))
-    selected, seen_titles, seen_categories = [], set(), set()
-    for diversity in (True, False):
-        for item in candidates:
-            key = item['title'].casefold()
-            if key in seen_titles or (diversity and item['_category'] in seen_categories):
-                continue
-            selected.append(item)
-            seen_titles.add(key)
-            seen_categories.add(item['_category'])
-            if len(selected) == 9:
-                break
-        if len(selected) == 9:
-            break
-    public = [{k: v for k, v in e.items() if not k.startswith('_')} for e in selected]
-    data = {'updated_at': datetime.now(timezone.utc).isoformat(), 'source': 'Eventsimple', 'events': public}
-    OUTPUT.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-    print(f"Eventsimple returned {len(raw['events'])} events; {len(candidates)} eligible; {len(public)} selected")
-    if not public:
-        print('WARNING: No matching events. Check Munich coverage and filters.', file=sys.stderr)
+    all_items, stats = [], {}
+    for name, fetcher in [('Eventsimple', eventsimple), ('EventIndex', eventindex), ('Evensos', evensos)]:
+        try:
+            raw_count, items = fetcher()
+            all_items.extend(items)
+            stats[name] = {'raw': raw_count, 'eligible': len(items), 'status': 'ok'}
+            print('%s: %d raw, %d eligible' % (name, raw_count, len(items)))
+        except Exception as exc:
+            stats[name] = {'raw': 0, 'eligible': 0, 'status': 'error: ' + str(exc)[:150]}
+            print('WARNING %s: %s' % (name, exc), file=sys.stderr)
+    stats['Rausgegangen'] = {'raw': 0, 'eligible': 0, 'status': 'not connected: no verified public API/feed'}
+    unique = {}
+    for e in all_items:
+        key = dedup_key(e)
+        if key not in unique or e['_score'] > unique[key]['_score']:
+            unique[key] = e
+    ranked = sorted(unique.values(), key=lambda e: (-e['_score'], e['_start']))
+    selected = ranked[:9]
+    public = []
+    for e in selected:
+        public.append({k: v for k, v in e.items() if not k.startswith('_')})
+    result = {'updated_at': datetime.now(timezone.utc).isoformat(),
+              'source': 'Eventsimple, EventIndex, Evensos (when available)',
+              'events': public, 'source_stats': stats}
+    if not public and OUT.exists():
+        print('WARNING: no new events; preserving previous events.json', file=sys.stderr)
+        return
+    OUT.write_text(json.dumps(result, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    print('TOTAL: %d eligible, %d unique, %d selected' % (len(all_items), len(unique), len(selected)))
 
 if __name__ == '__main__':
     main()
