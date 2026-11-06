@@ -62,7 +62,7 @@ def normalize(row, direction):
     }
 
 
-def select(rows, line, destination, direction, limit=2):
+def select(rows, line, destination, direction, limit=6):
     selected=[]
     for row in rows:
         if str(row.get('label') or '').strip() != line:
