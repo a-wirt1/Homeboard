@@ -1,0 +1,27 @@
+{
+  "updated_at": "2026-11-06T12:43:50Z",
+  "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
+  "stories": [
+    {
+      "title": "K.o.-Tropfen: Bundestag beschließt Strafverschärfung",
+      "summary": "Sie sind gefährlich und schwer nachzuweisen: Täter nutzen K.-o.-Tropfen, um ihre Opfer willenlos zu machen. Der Bundestag hat eine Strafverschärfung beschlossen. Darum geht es.",
+      "url": "https://www.zdfheute.de/panorama/kriminalitaet/k-o-tropfen-freiheitsstrafe-strafverschaerfung-bundestag-100.html",
+      "source": "ZDFheute",
+      "published": "2026-11-06T09:20:00Z"
+    },
+    {
+      "title": "USA - Kaliforniens Gouverneur Newsom will fast 550 Todesurteile in lebenslange Haftstrafen umwandeln",
+      "summary": "Der kalifornische Gouverneur Newsom hat die Umwandlung von 548 Todesurteilen in lebenslange Haftstrafen angekündigt.",
+      "url": "https://www.deutschlandfunk.de/kaliforniens-gouverneur-newsom-will-fast-550-todesurteile-in-lebenslange-haftstrafen-umwandeln-104.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-06T12:38:47Z"
+    },
+    {
+      "title": "Ukraine-Krieg - Selenskyj in Spanien und bei Iberoamerika-Gipfel: \"Welt muss von Russlands Verbrechen erfahren\"",
+      "summary": "Der ukrainische Präsident Selenskyj ist in Spanien von Regierungschef Sánchez und König Felipe VI. empfangen worden.",
+      "url": "https://www.deutschlandfunk.de/selenskyj-in-spanien-und-bei-iberoamerika-gipfel-welt-muss-von-russlands-verbrechen-erfahren-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-06T12:38:47Z"
+    }
+  ]
+}
