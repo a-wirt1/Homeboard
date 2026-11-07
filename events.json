@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T18:06:00.435305+00:00",
+  "updated_at": "2026-11-07T06:06:55.037795+00:00",
   "source": "Eventsimple, EventIndex, Evensos (when available)",
   "events": [
     {
@@ -59,17 +59,17 @@
       "category": "MESSE"
     },
     {
-      "title": "Good Charlotte - Motel Du Cap EU/UK Tour",
-      "url": "https://www.evensos.de/event/good-charlotte-motel-du-cap-eu-uk-tour",
-      "when": "Wed 11.11. 20:00",
-      "venue": "Unknown venue",
-      "category": "EVENT"
+      "title": "MAYBEBOP: Vier Typen. Vier Mikrofone. Sonst nichts.",
+      "url": "https://www.maybebop.de/termine",
+      "when": "Mon 16.11. 20:00",
+      "venue": "Alte Kongresshalle",
+      "category": "KONZERT"
     }
   ],
   "source_stats": {
     "Eventsimple": {
-      "raw": 13,
-      "eligible": 11,
+      "raw": 12,
+      "eligible": 12,
       "status": "ok"
     },
     "EventIndex": {
@@ -78,9 +78,9 @@
       "status": "error: unexpected EventIndex response (keys=@context,data,meta)"
     },
     "Evensos": {
-      "raw": 40,
-      "eligible": 2,
-      "status": "ok"
+      "raw": 0,
+      "eligible": 0,
+      "status": "error: neither city feed responded"
     },
     "Rausgegangen": {
       "raw": 0,
