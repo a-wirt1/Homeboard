@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-07T05:55:28Z",
+  "updated_at": "2026-11-07T08:58:40Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Nachfolge von Bundespräsident Steinmeier - Medienberichte: Auch CDU für Ilse Aigner",
+      "title": "Europa - Bombendrohungen gegen Flüge in Europa weiten sich aus",
+      "summary": "Die Serie rätselhafter Bombendrohungen im europäischen Luftverkehr hält an.",
+      "url": "https://www.deutschlandfunk.de/bombendrohungen-gegen-fluege-in-europa-weiten-sich-aus-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-07T08:40:13Z"
+    },
+    {
+      "title": "Bundespräsidentenwahl - Medienberichte: Auch CDU für Ilse Aigner - Merz schweigt weiter - CDU-Parteikollege Kiesewetter kritisiert Merz",
       "summary": "Nach der CSU will nun auch die CDU ‌Medienberichten zufolge Ilse Aigner für das Amt der Bundespräsidentin nominieren. Dies berichteten \"Bild\", \"Spiegel\" und \"Süddeutsche Zeitung\" übereinstimmend. Mit einer offiziellen Bekanntgabe wird am Mo",
-      "url": "https://www.deutschlandfunk.de/medienberichte-auch-cdu-fuer-ilse-aigner-104.html",
+      "url": "https://www.deutschlandfunk.de/medienberichte-auch-cdu-fuer-ilse-aigner-merz-schweigt-weiter-cdu-parteikollege-kiesewetter-kritisie-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-07T05:54:03Z"
+      "published": "2026-11-07T08:40:13Z"
     },
     {
-      "title": "Nach Wahlniederlage - Trump: Stabschefin Susie Wiles verlässt Weißes Haus - Nachfolger wird Stephen Miller",
-      "summary": "Nach der Niederlage der Republikaner bei den Zwischenwahlen hat US-Präsident Trump personelle Konsequenzen gezogen. Trump erklärte auf seiner Online-Plattform, die Stabschefin im Weißen Haus, Wiles, gebe ihren Posten auf. Nachfolger werde i",
-      "url": "https://www.deutschlandfunk.de/trump-stabschefin-susie-wiles-verlaesst-weisses-haus-nachfolger-wird-stephen-miller-108.html",
+      "title": "Ukraine-Krieg - Russen greifen mit Raketen an: Explosionen in Kiew und Umland",
+      "summary": "Russland hat in der Nacht erneut die ukrainische Haupstadt Kiew und ihr Umland mit Raketen angegriffen.",
+      "url": "https://www.deutschlandfunk.de/russen-greifen-mit-raketen-an-explosionen-in-kiew-und-umland-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-07T05:54:03Z"
-    },
-    {
-      "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
-      "summary": "Plötzlich ging es ganz schnell: Infolge der Bankenkrise in Paraguay hat das Parlament den bisherigen Präsidenten Peña des Amtes enthoben - kurz darauf wurde er unter Hausarrest gestellt. Ein Nachfolger ist bereits vereidigt.",
-      "url": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
-      "source": "tagesschau",
-      "published": "2026-11-07T00:06:18Z"
+      "published": "2026-11-07T08:40:13Z"
     }
   ]
 }
