@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T08:58:40Z",
+  "updated_at": "2026-11-07T13:00:14Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
@@ -7,21 +7,21 @@
       "summary": "Die Serie rätselhafter Bombendrohungen im europäischen Luftverkehr hält an.",
       "url": "https://www.deutschlandfunk.de/bombendrohungen-gegen-fluege-in-europa-weiten-sich-aus-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-07T08:40:13Z"
+      "published": "2026-11-07T12:55:12Z"
+    },
+    {
+      "title": "Soldatinnen und Soldaten - Pistorius sieht Personalplanung der Bundeswehr auf gutem Weg - erstmal keine Wehrpflicht nötig",
+      "summary": "Die Personalplanung der Bundeswehr ist nach den Worten von Verteidigungsminister Pistorius auf einem guten Weg. Zur Zeit ist eine Wiedereinführung der Wehrpflicht demnach nicht nötig. Pistorius sagte im Interview der Woche des Deutschlandfu",
+      "url": "https://www.deutschlandfunk.de/pistorius-sieht-personalplanung-der-bundeswehr-auf-gutem-weg-erstmal-keine-wehrpflicht-noetig-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-07T12:55:12Z"
     },
     {
       "title": "Bundespräsidentenwahl - Medienberichte: Auch CDU für Ilse Aigner - Merz schweigt weiter - CDU-Parteikollege Kiesewetter kritisiert Merz",
       "summary": "Nach der CSU will nun auch die CDU ‌Medienberichten zufolge Ilse Aigner für das Amt der Bundespräsidentin nominieren. Dies berichteten \"Bild\", \"Spiegel\" und \"Süddeutsche Zeitung\" übereinstimmend. Mit einer offiziellen Bekanntgabe wird am Mo",
       "url": "https://www.deutschlandfunk.de/medienberichte-auch-cdu-fuer-ilse-aigner-merz-schweigt-weiter-cdu-parteikollege-kiesewetter-kritisie-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-07T08:40:13Z"
-    },
-    {
-      "title": "Ukraine-Krieg - Russen greifen mit Raketen an: Explosionen in Kiew und Umland",
-      "summary": "Russland hat in der Nacht erneut die ukrainische Haupstadt Kiew und ihr Umland mit Raketen angegriffen.",
-      "url": "https://www.deutschlandfunk.de/russen-greifen-mit-raketen-an-explosionen-in-kiew-und-umland-100.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-07T08:40:13Z"
+      "published": "2026-11-07T12:55:12Z"
     }
   ]
 }
