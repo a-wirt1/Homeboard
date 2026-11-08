@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-08T05:56:51Z",
+  "updated_at": "2026-11-08T08:58:39Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
+    {
+      "title": "Tödliche Schüsse in Krakau: Was bisher bekannt ist",
+      "summary": "Insgesamt neun Tote und 15 Verletzte: Nach dem schlimmsten Anschlag seit Jahrzehnten trauert Polen um die Opfer. Was bislang bekannt ist: ein Überblick.",
+      "url": "https://www.zdfheute.de/politik/ausland/polen-krakau-schuesse-schuetze-tote-verletzte-100.html",
+      "source": "ZDFheute",
+      "published": "2026-11-08T08:54:00Z"
+    },
+    {
+      "title": "Ukraine-Krieg - Erneut russischer Angriff auf ukrainische Energieversorgung - 600.000 Menschen ohne Strom",
+      "summary": "Nach einem erneuten russischen ⁠Angriff auf die Energieversorgung in der Ukraine ⁠sind ⁠laut den Behörden ⁠mehr als ⁠600.000 ‌Menschen im Osten des Landes ohne ​Strom.",
+      "url": "https://www.deutschlandfunk.de/erneut-russischer-angriff-auf-ukrainische-energieversorgung-600-000-menschen-ohne-strom-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-08T08:51:14Z"
+    },
     {
       "title": "Nach CAS-Urteil - Eishockey-WM in Deutschland mit Russland? Weltverband IIHF spielt auf Zeit",
       "summary": "Im Streit um eine Teilnahme Russlands an der Eishockey-Weltmeisterschaft im kommenden Jahr in Deutschland spielt der Weltverband IIHF auf Zeit. Die \"International Ice Hockey Federation\" kündigte in Zürich an, für das weitere Vorgehen - Zita",
       "url": "https://www.deutschlandfunk.de/eishockey-wm-in-deutschland-mit-russland-weltverband-iihf-spielt-auf-zeit-104.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-08T05:18:53Z"
-    },
-    {
-      "title": "Tote und Verletzte nach Schüssen in Krakau",
-      "summary": "In Krakau sind sechs Menschen getötet und 16 weitere verletzt worden. Der mutmaßliche Schütze wurde festgenommen. Drei weitere Leichen wurden nun bei ihm zu Hause gefunden.",
-      "url": "https://www.zdfheute.de/politik/ausland/polen-krakau-schuesse-tote-verletzte-100.html",
-      "source": "ZDFheute",
-      "published": "2026-11-07T20:53:00Z"
-    },
-    {
-      "title": "Jerusalem - Israels Präsident Herzog beauftragt Oppositionspolitiker Eisenkot mit Regierungsbildung",
-      "summary": "Der israelische Präsident Herzog wird den Oppositionspolitiker Eisenkot mit der Regierungsbildung beauftragen. Ein Sprecher des Präsidenten sagte, Eisenkot sei von Herzog für heute in dessen Amtssitz in Jerusalem eingeladen worden.",
-      "url": "https://www.deutschlandfunk.de/israels-praesident-herzog-beauftragt-oppositionspolitiker-eisenkot-mit-regierungsbildung-106.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-08T05:18:53Z"
+      "published": "2026-11-08T08:51:14Z"
     }
   ]
 }
