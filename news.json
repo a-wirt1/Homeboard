@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-08T17:44:56Z",
+  "updated_at": "2026-11-09T06:17:43Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Ukraine-Krieg - Erneut russischer Angriff auf ukrainische Energieversorgung - 600.000 Menschen ohne Strom",
-      "summary": "Nach einem erneuten russischen ⁠Angriff auf die Energieversorgung in der Ukraine ⁠sind ⁠laut den Behörden ⁠mehr als ⁠600.000 ‌Menschen im Osten des Landes ohne ​Strom.",
-      "url": "https://www.deutschlandfunk.de/erneut-russischer-angriff-auf-ukrainische-energieversorgung-600-000-menschen-ohne-strom-100.html",
+      "title": "Ukraine-Krieg - Russische Drohnenangriffe auf ukrainische Städte",
+      "summary": "Russland hat am Abend mehrere ukrainische Städte mit Drohnen angegriffen.",
+      "url": "https://www.deutschlandfunk.de/russische-drohnenangriffe-auf-ukrainische-staedte-104.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-08T17:40:47Z"
+      "published": "2026-11-09T05:47:12Z"
     },
     {
-      "title": "Ukraine - Von Russland kontrolliertes Atomkraftwerk Saporischschja wird mit Notstromaggregaten gekühlt",
-      "summary": "Das von Russland kontrollierte ukrainische Atomkraftwerk Saporischschja wird mit Notstromaggregaten gekühlt.",
-      "url": "https://www.deutschlandfunk.de/von-russland-kontrolliertes-atomkraftwerk-saporischschja-wird-mit-notstromaggregaten-gekuehlt-102.html",
+      "title": "China - Mindestens 14 Tote bei Hochhausbrand in Millionenstadt Taiyuan",
+      "summary": "In der Stadt Taiyuan im Norden Chinas sind beim Brand eines Hochhauses mindestens 14 Menschen ums Leben gekommen.",
+      "url": "https://www.deutschlandfunk.de/mindestens-14-tote-bei-hochhausbrand-in-millionenstadt-taiyuan-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-08T17:40:47Z"
+      "published": "2026-11-09T05:47:12Z"
     },
     {
-      "title": "Interview - Frankreichs Außenminister Barrot: \"Europa soll durch französische Vertreter bei anstehenden Ukraine-Gesprächen repräsentiert werden\"",
-      "summary": "An den Verhandlungen zwischen Russland und der Ukraine unter US-amerikanischer Vermittlung sollen auch Vertreter Europas teilnehmen. Das sagte Frankreichs Außenminister Barrot in einem Interview mit dem Sender RTL.",
-      "url": "https://www.deutschlandfunk.de/frankreichs-aussenminister-barrot-europa-soll-durch-franzoesische-vertreter-bei-anstehenden-ukraine--100.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-08T17:40:47Z"
+      "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+      "summary": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
+      "url": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html",
+      "source": "tagesschau",
+      "published": "2026-11-09T03:32:51Z"
     }
   ]
 }
