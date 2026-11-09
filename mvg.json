@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T02:44:09.830497Z",
+  "updated_at": "2026-11-09T03:38:06.649820Z",
   "bus": [
     {
       "line": "154",
@@ -113,20 +113,11 @@
   "u2": [
     {
       "line": "U2",
-      "direction": "Richtung Messestadt Ost",
-      "destination": "Messestadt Ost",
-      "time": 1794194580000,
-      "realtime": false,
-      "delay": 0,
-      "cancelled": false
-    },
-    {
-      "line": "U2",
       "direction": "Richtung Feldmoching",
       "destination": "Feldmoching",
-      "time": 1794195480000,
-      "realtime": false,
-      "delay": 0,
+      "time": 1794195540000,
+      "realtime": true,
+      "delay": 1,
       "cancelled": false
     },
     {
@@ -197,6 +188,15 @@
       "direction": "Richtung Feldmoching",
       "destination": "Feldmoching",
       "time": 1794199860000,
+      "realtime": false,
+      "delay": 0,
+      "cancelled": false
+    },
+    {
+      "line": "U2",
+      "direction": "Richtung Messestadt Ost",
+      "destination": "Messestadt Ost",
+      "time": 1794200340000,
       "realtime": false,
       "delay": 0,
       "cancelled": false
