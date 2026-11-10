@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-11-10T06:14:58.807610+00:00",
+  "updated_at": "2026-11-10T12:08:57.764356+00:00",
   "source": "Eventsimple, EventIndex, Evensos (when available)",
   "events": [
+    {
+      "title": "Münchner Christkindlmarkt 2026",
+      "url": "https://www.christkindlmarkt-muenchen.de/",
+      "when": "Fri 20.11. 10:00",
+      "venue": "Marienplatz",
+      "category": "MARKT"
+    },
+    {
+      "title": "Münchner Christkindlmarkt am Marienplatz 2026",
+      "url": "https://www.muenchen.de/veranstaltungen/muenchner-christkindlmarkt-marienplatz",
+      "when": "Fri 20.11. 10:00",
+      "venue": "Marienplatz in München",
+      "category": "MARKT"
+    },
     {
       "title": "Zehn Leben",
       "url": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/zehn-leben-villa-stuck",
@@ -50,26 +64,12 @@
       "when": "Heute",
       "venue": "Trade Fair Center Messe München",
       "category": "MESSE"
-    },
-    {
-      "title": "SEMICON Europa 2026",
-      "url": "https://messe-muenchen.de/de/veranstaltungen/semicon-europa-2026.html",
-      "when": "Heute",
-      "venue": "Trade Fair Center Messe München",
-      "category": "MESSE"
-    },
-    {
-      "title": "MAYBEBOP: Vier Typen. Vier Mikrofone. Sonst nichts.",
-      "url": "https://www.maybebop.de/termine",
-      "when": "Mon 16.11. 20:00",
-      "venue": "Alte Kongresshalle",
-      "category": "KONZERT"
     }
   ],
   "source_stats": {
     "Eventsimple": {
       "raw": 15,
-      "eligible": 12,
+      "eligible": 15,
       "status": "ok"
     },
     "EventIndex": {
