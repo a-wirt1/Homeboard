@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-10T13:14:14Z",
+  "updated_at": "2026-11-10T17:55:17Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Rekord - Sportvereine haben über 30 Millionen Mitglieder",
-      "summary": "Die Zahl der Mitglieder in den deutschen Sportvereinen ist auf eine Rekordhöhe gestiegen.",
-      "url": "https://www.deutschlandfunk.de/sportvereine-haben-ueber-30-millionen-mitglieder-102.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-10T13:05:50Z"
+      "title": "Was können die Gespräche zum Ukraine-Krieg bringen?",
+      "summary": "Seit Dienstagmorgen finden Gespräche zwischen der Ukraine und Russland statt - unter Vermittlung der USA, zwei Tage lang. Dabei soll es wohl auch um Sicherheitsgarantien gehen.",
+      "url": "https://www.zdfheute.de/politik/ausland/verhandlungen-ukraine-russland-abu-dhabi-ukraine-krieg-usa-100.html",
+      "source": "ZDFheute",
+      "published": "2026-11-10T15:31:00Z"
     },
     {
-      "title": "Abu Dhabi - Trilaterale Gespräche über Ende des Ukraine-Kriegs",
-      "summary": "Russland und die Ukraine haben ihre Verhandlungen über ein Ende des Krieges zunächst beendet. Wie die ukrainische Seite in Abu Dhabi mitteilte, sollen die Gespräche unter Vermittlung der USA morgen fortgesetzt werden. Über den Verlauf der h",
-      "url": "https://www.deutschlandfunk.de/trilaterale-gespraeche-ueber-ende-des-ukraine-kriegs-100.html",
+      "title": "Vorstellung bei Fraktionen - Aigner will als Bundespräsidentin Brücken bauen - keine Termine bei AfD und Linken",
+      "summary": "Die Unionskandidatin für das Amt der Bundespräsidentin, Aigner, hat sich bei mehreren Bundestagsfraktionen vorgestellt. Vor der CDU/CSU-Fraktion bekräftigte die bayerische Landtagspräsidentin ihren Anspruch, Brücken zu bauen und auf Mensche",
+      "url": "https://www.deutschlandfunk.de/aigner-will-als-bundespraesidentin-bruecken-bauen-keine-termine-bei-afd-und-linken-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-10T13:05:50Z"
+      "published": "2026-11-10T17:13:40Z"
     },
     {
-      "title": "Kandidatur als Bundespräsidentin - Aigner stellt sich im Bundestag vor",
-      "summary": "Die Unionskandidatin für das Amt der Bundespräsidentin, Aigner, stellt sich am Nachmittag den Bundestagsfraktionen vor. Geplant sind Besuche bei CDU/CSU, SPD und den Grünen. Eine Vorstellung bei der AfD ist nach Angaben von Aigners Stabsche",
-      "url": "https://www.deutschlandfunk.de/aigner-stellt-sich-im-bundestag-vor-102.html",
+      "title": "Bulgarien - Zwölf Tote und 48 Verletzte bei Massenkarambolage auf Autobahn",
+      "summary": "Bei einer Massenkarambolage im Südosten Bulgariens sind mindestens zwölf Menschen ums Leben gekommen.",
+      "url": "https://www.deutschlandfunk.de/zwoelf-tote-und-48-verletzte-bei-massenkarambolage-auf-autobahn-102.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-10T13:05:50Z"
+      "published": "2026-11-10T17:13:40Z"
     }
   ]
 }
