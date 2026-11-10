@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T02:22:11.351185Z",
+  "updated_at": "2026-11-10T03:12:35.574870Z",
   "bus": [
     {
       "line": "154",
@@ -127,7 +127,7 @@
       "time": 1794281880000,
       "realtime": false,
       "delay": 0,
-      "cancelled": false
+      "cancelled": true
     },
     {
       "line": "U2",
