@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T02:25:26.346977Z",
+  "updated_at": "2026-11-11T03:17:56.716833Z",
   "bus": [
     {
       "line": "154",
@@ -61,9 +61,9 @@
       "line": "U2",
       "direction": "Richtung Messestadt Ost",
       "destination": "Messestadt Ost",
-      "time": 1794367380000,
-      "realtime": false,
-      "delay": 0,
+      "time": 1794367500000,
+      "realtime": true,
+      "delay": 2,
       "cancelled": false
     },
     {
