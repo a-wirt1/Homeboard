@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-10T17:55:17Z",
+  "updated_at": "2026-11-11T06:09:33Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Was können die Gespräche zum Ukraine-Krieg bringen?",
-      "summary": "Seit Dienstagmorgen finden Gespräche zwischen der Ukraine und Russland statt - unter Vermittlung der USA, zwei Tage lang. Dabei soll es wohl auch um Sicherheitsgarantien gehen.",
-      "url": "https://www.zdfheute.de/politik/ausland/verhandlungen-ukraine-russland-abu-dhabi-ukraine-krieg-usa-100.html",
-      "source": "ZDFheute",
-      "published": "2026-11-10T15:31:00Z"
+      "title": "Ukraine-Krieg - Europäischer Rechnungshof kritisiert Defizite bei Sanktionen gegen Russland - Immer noch erhebliches Handelsvolumen",
+      "summary": "Der Europäische Rechnungshof sieht deutliche Versäumnisse bei den Handelssanktionen der EU gegen Russland. Diese blieben weit hinter ihren Möglichkeiten zurück, heißt es in einem in Luxemburg vorgestellten Sonderbericht.",
+      "url": "https://www.deutschlandfunk.de/europaeischer-rechnungshof-kritisiert-defizite-bei-sanktionen-gegen-russland-immer-noch-erhebliches--102.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-11T05:56:21Z"
     },
     {
       "title": "Vorstellung bei Fraktionen - Aigner will als Bundespräsidentin Brücken bauen - keine Termine bei AfD und Linken",
       "summary": "Die Unionskandidatin für das Amt der Bundespräsidentin, Aigner, hat sich bei mehreren Bundestagsfraktionen vorgestellt. Vor der CDU/CSU-Fraktion bekräftigte die bayerische Landtagspräsidentin ihren Anspruch, Brücken zu bauen und auf Mensche",
-      "url": "https://www.deutschlandfunk.de/aigner-will-als-bundespraesidentin-bruecken-bauen-keine-termine-bei-afd-und-linken-100.html",
+      "url": "https://www.deutschlandfunk.de/aigner-will-als-bundespraesidentin-bruecken-bauen-keine-termine-bei-afd-und-linken-102.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-10T17:13:40Z"
+      "published": "2026-11-11T05:56:21Z"
     },
     {
-      "title": "Bulgarien - Zwölf Tote und 48 Verletzte bei Massenkarambolage auf Autobahn",
-      "summary": "Bei einer Massenkarambolage im Südosten Bulgariens sind mindestens zwölf Menschen ums Leben gekommen.",
-      "url": "https://www.deutschlandfunk.de/zwoelf-tote-und-48-verletzte-bei-massenkarambolage-auf-autobahn-102.html",
+      "title": "Vereinigte Arabische Emirate - Unterhändler der Ukraine und Russlands setzen Gespräche fort",
+      "summary": "Unterhändler der Ukraine und Russlands setzen heute ihre Gespräche in Abu Dhabi fort. Nach Angaben des ukrainischen Präsidenten Selenskyj wird es dabei um eine Deeskalation im Energiebereich und ein mögliches Dreiertreffen auf Präsidenteneb",
+      "url": "https://www.deutschlandfunk.de/unterhaendler-der-ukraine-und-russlands-setzen-gespraeche-fort-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-10T17:13:40Z"
+      "published": "2026-11-11T05:56:21Z"
     }
   ]
 }
