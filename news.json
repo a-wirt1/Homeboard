@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-11-12T06:13:25Z",
+  "updated_at": "2026-11-12T09:12:19Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
+    {
+      "title": "Erstmals seit 1982 - Demokrat Scott Colom holt laut Medien Senatssitz in Mississippi",
+      "summary": "Gut eine Woche nach den US-Zwischenwahlen zeichnet sich im besonders knappen Rennen in Mississippi ein weiterer Erfolg der Demokraten ab. Nach übereinstimmenden Medienberichten zieht ihr Kandidat Colom für den südlichen Bundesstaat in den S",
+      "url": "https://www.deutschlandfunk.de/demokrat-scott-colom-holt-laut-medien-senatssitz-in-mississippi-102.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-12T08:23:36Z"
+    },
     {
       "title": "Russland und Ukraine vereinbaren Gefangenenaustausch",
       "summary": "Bei den Ukraine-Gesprächen haben Moskau und Kiew einen weiteren Gefangenenaustausch vereinbart. Heute wollen die US-Gesandten Kushner und Witkoff zu Kremlchef Putin reisen. Dabei soll es auch darum gehen, die Europäer in die Gespräche einzu",
@@ -10,18 +17,11 @@
       "published": "2026-11-12T05:09:26Z"
     },
     {
-      "title": "Erstmals seit 1982 - Demokrat Scott Colom holt laut Medien Senatssitz in Mississippi",
-      "summary": "Gut eine Woche nach den US-Zwischenwahlen zeichnet sich im besonders knappen Rennen in Mississippi ein weiterer Erfolg der Demokraten ab. Nach übereinstimmenden Medienberichten zieht ihr Kandidat Colom für den südlichen Bundesstaat in den S",
-      "url": "https://www.deutschlandfunk.de/demokrat-scott-colom-holt-laut-medien-senatssitz-in-mississippi-102.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-12T05:35:31Z"
-    },
-    {
       "title": "Sachverständigenrat - Wirtschaftsweise erwarten für 2026 und 2027 wieder deutlich höheres Wachstum",
       "summary": "Führende Ökonomen erwarten für dieses und kommendes Jahr ein spürbar stärkeres Wirtschaftswachstum in Deutschland.",
       "url": "https://www.deutschlandfunk.de/wirtschaftsweise-erwarten-fuer-2026-und-2027-wieder-deutlich-hoeheres-wachstum-116.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-12T05:35:31Z"
+      "published": "2026-11-12T08:23:36Z"
     }
   ]
 }
