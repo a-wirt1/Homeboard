@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-11T18:01:31Z",
+  "updated_at": "2026-11-12T06:13:25Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Ukraine-Krieg - Europäischer Rechnungshof kritisiert Defizite bei Sanktionen gegen Russland - Immer noch erhebliches Handelsvolumen",
-      "summary": "Der Europäische Rechnungshof sieht deutliche Versäumnisse bei den Handelssanktionen der EU gegen Russland. Diese blieben weit hinter ihren Möglichkeiten zurück, heißt es in einem in Luxemburg vorgestellten Sonderbericht.",
-      "url": "https://www.deutschlandfunk.de/europaeischer-rechnungshof-kritisiert-defizite-bei-sanktionen-gegen-russland-immer-noch-erhebliches--102.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-11T17:58:19Z"
-    },
-    {
-      "title": "Nach Gesprächen in Abu Dhabi - Russland schließt Gebietstausch mit der Ukraine aus",
-      "summary": "Russland schließt einen Gebietstausch mit der Ukraine im Rahmen eines Friedensabkommens aus. Das sagte der russische Chefunterhändler Medinsky der Nachrichtenagentur Tass nach den Gesprächen in Abu Dhabi. Er betonte, ein gerechtes ⁠europäis",
-      "url": "https://www.deutschlandfunk.de/russland-schliesst-gebietstausch-mit-der-ukraine-aus-102.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-11T17:58:19Z"
-    },
-    {
-      "title": "Ukraine-Verhandlungen: Russland plant kein Treffen mit Europäern",
-      "summary": "In Abu Dhabi gehen die von den USA vermittelten Gespräche über ein Ende des Kriegs gegen die Ukraine weiter. Auch die Europäer sind vor Ort, doch die russische Delegation zeigt wenig Interesse an einem Austausch.",
-      "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-abu-dhabi-eu-100.html",
+      "title": "Russland und Ukraine vereinbaren Gefangenenaustausch",
+      "summary": "Bei den Ukraine-Gesprächen haben Moskau und Kiew einen weiteren Gefangenenaustausch vereinbart. Heute wollen die US-Gesandten Kushner und Witkoff zu Kremlchef Putin reisen. Dabei soll es auch darum gehen, die Europäer in die Gespräche einzu",
+      "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
       "source": "tagesschau",
-      "published": "2026-11-11T11:27:20Z"
+      "published": "2026-11-12T05:09:26Z"
+    },
+    {
+      "title": "Erstmals seit 1982 - Demokrat Scott Colom holt laut Medien Senatssitz in Mississippi",
+      "summary": "Gut eine Woche nach den US-Zwischenwahlen zeichnet sich im besonders knappen Rennen in Mississippi ein weiterer Erfolg der Demokraten ab. Nach übereinstimmenden Medienberichten zieht ihr Kandidat Colom für den südlichen Bundesstaat in den S",
+      "url": "https://www.deutschlandfunk.de/demokrat-scott-colom-holt-laut-medien-senatssitz-in-mississippi-102.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-12T05:35:31Z"
+    },
+    {
+      "title": "Sachverständigenrat - Wirtschaftsweise erwarten für 2026 und 2027 wieder deutlich höheres Wachstum",
+      "summary": "Führende Ökonomen erwarten für dieses und kommendes Jahr ein spürbar stärkeres Wirtschaftswachstum in Deutschland.",
+      "url": "https://www.deutschlandfunk.de/wirtschaftsweise-erwarten-fuer-2026-und-2027-wieder-deutlich-hoeheres-wachstum-116.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-12T05:35:31Z"
     }
   ]
 }
