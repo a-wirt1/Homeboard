@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-12T13:25:09Z",
+  "updated_at": "2026-11-12T18:00:11Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Erstmals seit 1982 - Demokrat Scott Colom holt laut Medien Senatssitz in Mississippi",
-      "summary": "Gut eine Woche nach den US-Zwischenwahlen zeichnet sich im besonders knappen Rennen in Mississippi ein weiterer Erfolg der Demokraten ab. Nach übereinstimmenden Medienberichten zieht ihr Kandidat Colom für den südlichen Bundesstaat in den S",
-      "url": "https://www.deutschlandfunk.de/demokrat-scott-colom-holt-laut-medien-senatssitz-in-mississippi-102.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-12T13:15:02Z"
+      "title": "Krieg gegen die Ukraine: Putin beharrt auf Gebietsansprüchen",
+      "summary": "Bei einem Treffen mit den US-Unterhändlern Witkoff und Kushner hat der russische Präsident Putin seinen Anspruch auf ukrainische Gebiete erneuert. Eine mögliche Beteiligung Europas an Friedensgesprächen schloss er nicht aus.",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-putin-witkoff-kushner-100.html",
+      "source": "tagesschau",
+      "published": "2026-11-12T16:29:23Z"
     },
     {
-      "title": "Russland und Ukraine vereinbaren Gefangenenaustausch",
-      "summary": "Bei den Ukraine-Gesprächen haben Moskau und Kiew einen weiteren Gefangenenaustausch vereinbart. Heute wollen die US-Gesandten Kushner und Witkoff zu Kremlchef Putin reisen. Dabei soll es auch darum gehen, die Europäer in die Gespräche einzu",
-      "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
-      "source": "tagesschau",
-      "published": "2026-11-12T05:09:26Z"
+      "title": "Chiphersteller - Nvidia-Chef Huang verlässt nach Affären das Unternehmen",
+      "summary": "Der Chef des amerikanischen Chipherstellers Nvidia, Jensen Huang, tritt wegen einer möglichen Spionageaffäre und dem Bekanntwerden von außerehelichen Beziehungen zurück. Das teilte der Konzern mit Sitz in Kalifornien mit. Finanzvorständin C",
+      "url": "https://www.deutschlandfunk.de/nvidia-chef-huang-verlaesst-nach-affaeren-das-unternehmen-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-12T17:55:57Z"
     },
     {
       "title": "Drohmails - Neue Bombendrohungen gegen Schulen in Italien - Regierung ruft zu Ruhe auf",
-      "summary": "Die italienische Regierung will angesichts von massenhaften Bombendrohungen gegen Schulen weitere Evakuierungen verhindern.",
+      "summary": "Die italienische Regierung will angesichts massenhafter Bombendrohungen gegen Schulen weitere Evakuierungen verhindern.",
       "url": "https://www.deutschlandfunk.de/neue-bombendrohungen-gegen-schulen-in-italien-regierung-ruft-zu-ruhe-auf-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-12T13:15:02Z"
+      "published": "2026-11-12T17:55:57Z"
     }
   ]
 }
