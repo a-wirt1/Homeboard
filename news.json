@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-13T06:10:20Z",
+  "updated_at": "2026-11-13T09:08:31Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Große Störung bei Microsoft Outlook",
-      "summary": "Eine großflächige Störung beim E-Mail-Dienst Outlook des Technologiekonzerns Microsoft hat am Donnerstag Zehntausenden Nutzern Probleme beim Zugriff auf ihre E-Mails bereitet.",
-      "url": "https://www.zdfheute.de/wirtschaft/stoerung-outlook-teams-microsoft-100.html",
-      "source": "ZDFheute",
-      "published": "2026-11-13T06:01:00Z"
+      "title": "Ukraine-Krieg - Vier Tote bei ukrainischem Luftangriff auf russische Region Wolgograd",
+      "summary": "Russland und die Ukraine haben sich in der vergangenen Nacht wieder aus der Luft angegriffen.",
+      "url": "https://www.deutschlandfunk.de/vier-tote-bei-ukrainischem-luftangriff-auf-russische-region-wolgograd-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-13T08:44:04Z"
     },
     {
-      "title": "Automobilindustrie - Mercedes stoppt alle neuen Investitionen in Deutschland und prüft Werksschließungen",
-      "summary": "Der Autobauer Mercedes stoppt alle neuen Investitionen in Deutschland. Wie der Konzern mitteilte, fiel die Entscheidung angesichts hoher Preise und stockender Verhandlungen mit der Arbeitnehmerseite über Kostensenkungen.",
-      "url": "https://www.deutschlandfunk.de/mercedes-stoppt-alle-neuen-investitionen-in-deutschland-und-prueft-werksschliessungen-102.html",
+      "title": "Spionageaffäre - US-Senat lädt Ex-Nvidia-Chef Jensen Huang und Handelsminister Howard Lutnick vor",
+      "summary": "Der in eine Spionageaffäre verwickelte Ex-Chef des Chipherstellers Nvidia, Huang, ist aufgefordert worden, im ​Bankenausschuss des US-Senats auszusagen.",
+      "url": "https://www.deutschlandfunk.de/us-senat-laedt-ex-nvidia-chef-jensen-huang-und-handelsminister-howard-lutnick-vor-102.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-13T05:58:31Z"
+      "published": "2026-11-13T08:44:04Z"
     },
     {
       "title": "Dublin - Kushner: Europäer sollen bei nächsten Ukraine-Gesprächen dabei sein",
       "summary": "Der russische Präsident Putin ist nach Angaben der USA bereit, Europa bei künftigen Ukraine-Friedensgesprächen mit einzubeziehen. Der US-Sondergesandte Kushner teilte in Dublin mit, man gehe davon aus, in Kürze den Zeitplan und weitere Einz",
       "url": "https://www.deutschlandfunk.de/kushner-europaeer-sollen-bei-naechsten-ukraine-gespraechen-dabei-sein-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-13T05:58:31Z"
+      "published": "2026-11-13T08:44:04Z"
     }
   ]
 }
