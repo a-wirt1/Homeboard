@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13T17:21:48.989165Z",
+  "updated_at": "2026-11-13T18:14:04.187891Z",
   "bus": [
     {
       "line": "154",
       "direction": "Richtung Westerlandanger",
       "destination": "Westerlandanger",
-      "time": 1794590520000,
+      "time": 1794594120000,
       "realtime": false,
       "delay": 0,
       "cancelled": false
@@ -14,7 +14,7 @@
       "line": "154",
       "direction": "Richtung Westerlandanger",
       "destination": "Westerlandanger",
-      "time": 1794591120000,
+      "time": 1794594720000,
       "realtime": false,
       "delay": 0,
       "cancelled": false
@@ -23,7 +23,7 @@
       "line": "154",
       "direction": "Richtung Westerlandanger",
       "destination": "Westerlandanger",
-      "time": 1794591720000,
+      "time": 1794595320000,
       "realtime": false,
       "delay": 0,
       "cancelled": false
@@ -32,16 +32,7 @@
       "line": "154",
       "direction": "Richtung Westerlandanger",
       "destination": "Westerlandanger",
-      "time": 1794592320000,
-      "realtime": false,
-      "delay": 0,
-      "cancelled": false
-    },
-    {
-      "line": "153",
-      "direction": "Richtung Odeonsplatz",
-      "destination": "Odeonsplatz",
-      "time": 1794592500000,
+      "time": 1794595920000,
       "realtime": false,
       "delay": 0,
       "cancelled": false
@@ -50,16 +41,16 @@
       "line": "154",
       "direction": "Richtung Westerlandanger",
       "destination": "Westerlandanger",
-      "time": 1794592920000,
+      "time": 1794596520000,
       "realtime": false,
       "delay": 0,
       "cancelled": false
     },
     {
-      "line": "153",
-      "direction": "Richtung Odeonsplatz",
-      "destination": "Odeonsplatz",
-      "time": 1794593100000,
+      "line": "154",
+      "direction": "Richtung Westerlandanger",
+      "destination": "Westerlandanger",
+      "time": 1794597120000,
       "realtime": false,
       "delay": 0,
       "cancelled": false
@@ -68,18 +59,9 @@
   "u2": [
     {
       "line": "U2",
-      "direction": "Richtung Feldmoching",
-      "destination": "Feldmoching",
-      "time": 1794590460000,
-      "realtime": false,
-      "delay": 0,
-      "cancelled": false
-    },
-    {
-      "line": "U2",
       "direction": "Richtung Messestadt Ost",
       "destination": "Messestadt Ost",
-      "time": 1794590640000,
+      "time": 1794593640000,
       "realtime": false,
       "delay": 0,
       "cancelled": false
@@ -88,7 +70,7 @@
       "line": "U2",
       "direction": "Richtung Feldmoching",
       "destination": "Feldmoching",
-      "time": 1794590760000,
+      "time": 1794593760000,
       "realtime": false,
       "delay": 0,
       "cancelled": false
@@ -97,25 +79,7 @@
       "line": "U2",
       "direction": "Richtung Messestadt Ost",
       "destination": "Messestadt Ost",
-      "time": 1794590880000,
-      "realtime": true,
-      "delay": -1,
-      "cancelled": false
-    },
-    {
-      "line": "U2",
-      "direction": "Richtung Feldmoching",
-      "destination": "Feldmoching",
-      "time": 1794591060000,
-      "realtime": false,
-      "delay": 0,
-      "cancelled": false
-    },
-    {
-      "line": "U2",
-      "direction": "Richtung Messestadt Ost",
-      "destination": "Messestadt Ost",
-      "time": 1794591240000,
+      "time": 1794593940000,
       "realtime": false,
       "delay": 0,
       "cancelled": false
@@ -124,7 +88,7 @@
       "line": "U2",
       "direction": "Richtung Feldmoching",
       "destination": "Feldmoching",
-      "time": 1794591360000,
+      "time": 1794594060000,
       "realtime": false,
       "delay": 0,
       "cancelled": false
@@ -133,7 +97,7 @@
       "line": "U2",
       "direction": "Richtung Messestadt Ost",
       "destination": "Messestadt Ost",
-      "time": 1794591540000,
+      "time": 1794594240000,
       "realtime": false,
       "delay": 0,
       "cancelled": false
@@ -142,7 +106,7 @@
       "line": "U2",
       "direction": "Richtung Feldmoching",
       "destination": "Feldmoching",
-      "time": 1794591660000,
+      "time": 1794594360000,
       "realtime": false,
       "delay": 0,
       "cancelled": false
@@ -151,7 +115,7 @@
       "line": "U2",
       "direction": "Richtung Messestadt Ost",
       "destination": "Messestadt Ost",
-      "time": 1794591840000,
+      "time": 1794594540000,
       "realtime": false,
       "delay": 0,
       "cancelled": false
@@ -160,7 +124,7 @@
       "line": "U2",
       "direction": "Richtung Feldmoching",
       "destination": "Feldmoching",
-      "time": 1794591960000,
+      "time": 1794594660000,
       "realtime": false,
       "delay": 0,
       "cancelled": false
@@ -169,7 +133,34 @@
       "line": "U2",
       "direction": "Richtung Messestadt Ost",
       "destination": "Messestadt Ost",
-      "time": 1794592140000,
+      "time": 1794594840000,
+      "realtime": false,
+      "delay": 0,
+      "cancelled": false
+    },
+    {
+      "line": "U2",
+      "direction": "Richtung Feldmoching",
+      "destination": "Feldmoching",
+      "time": 1794594960000,
+      "realtime": false,
+      "delay": 0,
+      "cancelled": false
+    },
+    {
+      "line": "U2",
+      "direction": "Richtung Messestadt Ost",
+      "destination": "Messestadt Ost",
+      "time": 1794595140000,
+      "realtime": false,
+      "delay": 0,
+      "cancelled": false
+    },
+    {
+      "line": "U2",
+      "direction": "Richtung Feldmoching",
+      "destination": "Feldmoching",
+      "time": 1794595260000,
       "realtime": false,
       "delay": 0,
       "cancelled": false
