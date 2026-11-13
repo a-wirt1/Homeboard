@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-12T18:00:11Z",
+  "updated_at": "2026-11-13T06:10:20Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Krieg gegen die Ukraine: Putin beharrt auf Gebietsansprüchen",
-      "summary": "Bei einem Treffen mit den US-Unterhändlern Witkoff und Kushner hat der russische Präsident Putin seinen Anspruch auf ukrainische Gebiete erneuert. Eine mögliche Beteiligung Europas an Friedensgesprächen schloss er nicht aus.",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-putin-witkoff-kushner-100.html",
-      "source": "tagesschau",
-      "published": "2026-11-12T16:29:23Z"
+      "title": "Große Störung bei Microsoft Outlook",
+      "summary": "Eine großflächige Störung beim E-Mail-Dienst Outlook des Technologiekonzerns Microsoft hat am Donnerstag Zehntausenden Nutzern Probleme beim Zugriff auf ihre E-Mails bereitet.",
+      "url": "https://www.zdfheute.de/wirtschaft/stoerung-outlook-teams-microsoft-100.html",
+      "source": "ZDFheute",
+      "published": "2026-11-13T06:01:00Z"
     },
     {
-      "title": "Chiphersteller - Nvidia-Chef Huang verlässt nach Affären das Unternehmen",
-      "summary": "Der Chef des amerikanischen Chipherstellers Nvidia, Jensen Huang, tritt wegen einer möglichen Spionageaffäre und dem Bekanntwerden von außerehelichen Beziehungen zurück. Das teilte der Konzern mit Sitz in Kalifornien mit. Finanzvorständin C",
-      "url": "https://www.deutschlandfunk.de/nvidia-chef-huang-verlaesst-nach-affaeren-das-unternehmen-100.html",
+      "title": "Automobilindustrie - Mercedes stoppt alle neuen Investitionen in Deutschland und prüft Werksschließungen",
+      "summary": "Der Autobauer Mercedes stoppt alle neuen Investitionen in Deutschland. Wie der Konzern mitteilte, fiel die Entscheidung angesichts hoher Preise und stockender Verhandlungen mit der Arbeitnehmerseite über Kostensenkungen.",
+      "url": "https://www.deutschlandfunk.de/mercedes-stoppt-alle-neuen-investitionen-in-deutschland-und-prueft-werksschliessungen-102.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-12T17:55:57Z"
+      "published": "2026-11-13T05:58:31Z"
     },
     {
-      "title": "Drohmails - Neue Bombendrohungen gegen Schulen in Italien - Regierung ruft zu Ruhe auf",
-      "summary": "Die italienische Regierung will angesichts massenhafter Bombendrohungen gegen Schulen weitere Evakuierungen verhindern.",
-      "url": "https://www.deutschlandfunk.de/neue-bombendrohungen-gegen-schulen-in-italien-regierung-ruft-zu-ruhe-auf-100.html",
+      "title": "Dublin - Kushner: Europäer sollen bei nächsten Ukraine-Gesprächen dabei sein",
+      "summary": "Der russische Präsident Putin ist nach Angaben der USA bereit, Europa bei künftigen Ukraine-Friedensgesprächen mit einzubeziehen. Der US-Sondergesandte Kushner teilte in Dublin mit, man gehe davon aus, in Kürze den Zeitplan und weitere Einz",
+      "url": "https://www.deutschlandfunk.de/kushner-europaeer-sollen-bei-naechsten-ukraine-gespraechen-dabei-sein-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-12T17:55:57Z"
+      "published": "2026-11-13T05:58:31Z"
     }
   ]
 }
