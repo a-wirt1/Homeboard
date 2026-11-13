@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T13:20:50Z",
+  "updated_at": "2026-11-13T17:57:59Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
@@ -7,7 +7,7 @@
       "summary": "Russland und die Ukraine haben sich in der vergangenen Nacht wieder aus der Luft angegriffen.",
       "url": "https://www.deutschlandfunk.de/vier-tote-bei-ukrainischem-luftangriff-auf-russische-region-wolgograd-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-13T13:15:50Z"
+      "published": "2026-11-13T17:35:34Z"
     },
     {
       "title": "Bundestag beschließt Reform: Mehr Befugnisse für die Nachrichtendienste",
@@ -17,11 +17,11 @@
       "published": "2026-11-13T13:11:16Z"
     },
     {
-      "title": "Bayerisches Unternehmen - Drohnenhersteller Quantum Systems meldet Cyberangriff",
-      "summary": "Der deutsche Drohnenhersteller Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden.",
-      "url": "https://www.deutschlandfunk.de/drohnenhersteller-quantum-systems-meldet-cyberangriff-100.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-13T13:15:50Z"
+      "title": "Ukraine und Russland greifen sich trotz Verhandlungen weiter an",
+      "summary": "Trotz intensiver Verhandlungen über ein Ende des Ukraine-Krieges dauern die gegenseitigen Angriffe zwischen Kiew und Moskau an. Russland meldet sieben Tote, in der Ukraine wurden mindestens zwei Menschen getötet.",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krieg-angriffe-autobomben-100.html",
+      "source": "tagesschau",
+      "published": "2026-11-13T17:15:20Z"
     }
   ]
 }
