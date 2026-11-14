@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-11-14T11:58:10.707019+00:00",
+  "updated_at": "2026-11-14T17:55:40.957901+00:00",
   "source": "Eventsimple, EventIndex, Evensos (when available)",
   "events": [
+    {
+      "title": "Tollwood-Winterfestival in München 2026: Programm und Infos",
+      "url": "https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/tollwood-winterfestival-2026",
+      "when": "Tue 24.11. 14:00",
+      "venue": "Theresienwiese",
+      "category": "MARKT"
+    },
     {
       "title": "Münchner Christkindlmarkt 2026",
       "url": "https://www.christkindlmarkt-muenchen.de/",
@@ -57,19 +64,12 @@
       "when": "Heute",
       "venue": "Kunsthalle München",
       "category": "KUNST"
-    },
-    {
-      "title": "Maria Jarema",
-      "url": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/maria-jarema",
-      "when": "Heute",
-      "venue": "Lenbachhaus",
-      "category": "KUNST"
     }
   ],
   "source_stats": {
     "Eventsimple": {
       "raw": 14,
-      "eligible": 13,
+      "eligible": 14,
       "status": "ok"
     },
     "EventIndex": {
