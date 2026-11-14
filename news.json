@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T13:01:36Z",
+  "updated_at": "2026-11-14T17:45:55Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
@@ -7,14 +7,7 @@
       "summary": "Die USA haben nach Angaben des ukrainischen Präsidenten Selenskyj eine NATO-Mitgliedschaft seines Landes bei gleichzeitigen Gebietsabtretungen an Russland ins Gespräch gebracht.",
       "url": "https://www.deutschlandfunk.de/selenskyj-usa-haben-gebietsabtretungen-an-russland-im-gegenzug-fuer-eine-nato-mitgliedschaft-ins-ges-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-14T12:46:12Z"
-    },
-    {
-      "title": "USA - Frachter rammt Flusskreuzfahrtschiff in New Orleans - 30 Passagiere im Krankenhaus",
-      "summary": "In New Orleans im US-Bundesstaat Louisiana ist es zu einem Schiffsunglück gekommen.",
-      "url": "https://www.deutschlandfunk.de/frachter-rammt-flusskreuzfahrtschiff-in-new-orleans-30-passagiere-im-krankenhaus-102.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-14T12:46:12Z"
+      "published": "2026-11-14T17:24:57Z"
     },
     {
       "title": "Weißes Haus: Trump trifft sich mit Putin und Xi in China",
@@ -22,6 +15,13 @@
       "url": "https://www.zdfheute.de/politik/ausland/usa-dreiertreffen-trump-xi-putin-china-100.html",
       "source": "ZDFheute",
       "published": "2026-11-14T02:38:00Z"
+    },
+    {
+      "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+      "summary": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+      "source": "tagesschau",
+      "published": "2026-11-14T09:55:34Z"
     }
   ]
 }
