@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-13T17:57:59Z",
+  "updated_at": "2026-11-14T05:57:47Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Ukraine-Krieg - Vier Tote bei ukrainischem Luftangriff auf russische Region Wolgograd",
-      "summary": "Russland und die Ukraine haben sich in der vergangenen Nacht wieder aus der Luft angegriffen.",
-      "url": "https://www.deutschlandfunk.de/vier-tote-bei-ukrainischem-luftangriff-auf-russische-region-wolgograd-100.html",
+      "title": "Weißes Haus: Trump trifft sich mit Putin und Xi in China",
+      "summary": "Erstmals sollen Trump, Xi und Putin nach Angaben des Weißen Hauses zu einem Dreiertreffen nächste Woche in China zusammenkommen. Es soll auch um Atomwaffen gehen.",
+      "url": "https://www.zdfheute.de/politik/ausland/usa-dreiertreffen-trump-xi-putin-china-100.html",
+      "source": "ZDFheute",
+      "published": "2026-11-14T02:38:00Z"
+    },
+    {
+      "title": "USA - Frachter rammt Flusskreuzfahrtschiff in New Orleans - 30 Passagiere im Krankenhaus",
+      "summary": "In New Orleans im US-Bundesstaat Louisiana ist es zu einem Schiffsunglück gekommen.",
+      "url": "https://www.deutschlandfunk.de/frachter-rammt-flusskreuzfahrtschiff-in-new-orleans-30-passagiere-im-krankenhaus-102.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-13T17:35:34Z"
+      "published": "2026-11-14T05:43:52Z"
     },
     {
-      "title": "Bundestag beschließt Reform: Mehr Befugnisse für die Nachrichtendienste",
-      "summary": "Heimlich Wohnungen betreten, Hackerangriffe, Falschinformationen: Deutsche Nachrichtendienste bekommen mehr Befugnisse. Der Bundestag hat die Reform nun beschlossen. Damit reagiert die Koalition auf die verschärfte Bedrohung.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html",
-      "source": "tagesschau",
-      "published": "2026-11-13T13:11:16Z"
-    },
-    {
-      "title": "Ukraine und Russland greifen sich trotz Verhandlungen weiter an",
-      "summary": "Trotz intensiver Verhandlungen über ein Ende des Ukraine-Krieges dauern die gegenseitigen Angriffe zwischen Kiew und Moskau an. Russland meldet sieben Tote, in der Ukraine wurden mindestens zwei Menschen getötet.",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krieg-angriffe-autobomben-100.html",
-      "source": "tagesschau",
-      "published": "2026-11-13T17:15:20Z"
+      "title": "Nvidia-Skandal - US-Finanzminister Bessent macht Handelsminister Lutnick für Chip-Lieferungen nach China verantwortlich",
+      "summary": "Im Skandal um den zurückgetretenen Nvidia-Chef Huang steht nun auch US-Handelsminister Lutnick in der Kritik.",
+      "url": "https://www.deutschlandfunk.de/us-finanzminister-bessent-macht-handelsminister-lutnick-fuer-chip-lieferungen-nach-china-verantwortl-106.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-14T05:43:52Z"
     }
   ]
 }
