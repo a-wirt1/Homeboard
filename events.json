@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T18:09:46.545542+00:00",
+  "updated_at": "2026-11-14T06:08:31.884721+00:00",
   "source": "Eventsimple, EventIndex, Evensos (when available)",
   "events": [
     {
@@ -15,6 +15,13 @@
       "when": "Fri 20.11. 10:00",
       "venue": "Marienplatz in München",
       "category": "MARKT"
+    },
+    {
+      "title": "Tollwood Winterfestival 2026",
+      "url": "https://www.tollwood.de",
+      "when": "Tue 24.11.",
+      "venue": "Theresienwiese",
+      "category": "FESTIVAL"
     },
     {
       "title": "Zehn Leben",
@@ -57,19 +64,12 @@
       "when": "Heute",
       "venue": "Lenbachhaus",
       "category": "KUNST"
-    },
-    {
-      "title": "electronica 2026",
-      "url": "https://messe-muenchen.de/de/veranstaltungen/electronica-2026.html",
-      "when": "Heute",
-      "venue": "Trade Fair Center Messe München",
-      "category": "MESSE"
     }
   ],
   "source_stats": {
     "Eventsimple": {
       "raw": 14,
-      "eligible": 14,
+      "eligible": 13,
       "status": "ok"
     },
     "EventIndex": {
