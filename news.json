@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-14T08:58:41Z",
+  "updated_at": "2026-11-14T13:01:36Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Weißes Haus: Trump trifft sich mit Putin und Xi in China",
-      "summary": "Erstmals sollen Trump, Xi und Putin nach Angaben des Weißen Hauses zu einem Dreiertreffen nächste Woche in China zusammenkommen. Es soll auch um Atomwaffen gehen.",
-      "url": "https://www.zdfheute.de/politik/ausland/usa-dreiertreffen-trump-xi-putin-china-100.html",
-      "source": "ZDFheute",
-      "published": "2026-11-14T02:38:00Z"
+      "title": "Ukraine - Selenskyj: USA haben Gebietsabtretungen an Russland im Gegenzug für eine NATO-Mitgliedschaft ins Gespräch gebracht",
+      "summary": "Die USA haben nach Angaben des ukrainischen Präsidenten Selenskyj eine NATO-Mitgliedschaft seines Landes bei gleichzeitigen Gebietsabtretungen an Russland ins Gespräch gebracht.",
+      "url": "https://www.deutschlandfunk.de/selenskyj-usa-haben-gebietsabtretungen-an-russland-im-gegenzug-fuer-eine-nato-mitgliedschaft-ins-ges-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-14T12:46:12Z"
     },
     {
       "title": "USA - Frachter rammt Flusskreuzfahrtschiff in New Orleans - 30 Passagiere im Krankenhaus",
       "summary": "In New Orleans im US-Bundesstaat Louisiana ist es zu einem Schiffsunglück gekommen.",
       "url": "https://www.deutschlandfunk.de/frachter-rammt-flusskreuzfahrtschiff-in-new-orleans-30-passagiere-im-krankenhaus-102.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-14T08:48:37Z"
+      "published": "2026-11-14T12:46:12Z"
     },
     {
-      "title": "Nvidia-Skandal - US-Finanzminister Bessent macht Handelsminister Lutnick für Chip-Lieferungen nach China verantwortlich",
-      "summary": "Im Skandal um den zurückgetretenen Nvidia-Chef Huang steht nun auch US-Handelsminister Lutnick in der Kritik.",
-      "url": "https://www.deutschlandfunk.de/us-finanzminister-bessent-macht-handelsminister-lutnick-fuer-chip-lieferungen-nach-china-verantwortl-106.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-14T08:48:37Z"
+      "title": "Weißes Haus: Trump trifft sich mit Putin und Xi in China",
+      "summary": "Erstmals sollen Trump, Xi und Putin nach Angaben des Weißen Hauses zu einem Dreiertreffen nächste Woche in China zusammenkommen. Es soll auch um Atomwaffen gehen.",
+      "url": "https://www.zdfheute.de/politik/ausland/usa-dreiertreffen-trump-xi-putin-china-100.html",
+      "source": "ZDFheute",
+      "published": "2026-11-14T02:38:00Z"
     }
   ]
 }
