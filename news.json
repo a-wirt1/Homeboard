@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T05:57:47Z",
+  "updated_at": "2026-11-14T08:58:41Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
@@ -14,14 +14,14 @@
       "summary": "In New Orleans im US-Bundesstaat Louisiana ist es zu einem Schiffsunglück gekommen.",
       "url": "https://www.deutschlandfunk.de/frachter-rammt-flusskreuzfahrtschiff-in-new-orleans-30-passagiere-im-krankenhaus-102.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-14T05:43:52Z"
+      "published": "2026-11-14T08:48:37Z"
     },
     {
       "title": "Nvidia-Skandal - US-Finanzminister Bessent macht Handelsminister Lutnick für Chip-Lieferungen nach China verantwortlich",
       "summary": "Im Skandal um den zurückgetretenen Nvidia-Chef Huang steht nun auch US-Handelsminister Lutnick in der Kritik.",
       "url": "https://www.deutschlandfunk.de/us-finanzminister-bessent-macht-handelsminister-lutnick-fuer-chip-lieferungen-nach-china-verantwortl-106.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-14T05:43:52Z"
+      "published": "2026-11-14T08:48:37Z"
     }
   ]
 }
