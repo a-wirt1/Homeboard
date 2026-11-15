@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-11-14T23:38:14.277723Z",
+  "updated_at": "2026-11-15T00:12:58.271002Z",
   "bus": [
-    {
-      "line": "154",
-      "direction": "Richtung Westerlandanger",
-      "destination": "Westerlandanger",
-      "time": 1794699780000,
-      "realtime": false,
-      "delay": 0,
-      "cancelled": false
-    },
     {
       "line": "154",
       "direction": "Richtung Westerlandanger",
@@ -54,27 +45,18 @@
       "realtime": false,
       "delay": 0,
       "cancelled": false
-    }
-  ],
-  "u2": [
-    {
-      "line": "U2",
-      "direction": "Richtung Feldmoching",
-      "destination": "Feldmoching",
-      "time": 1794699600000,
-      "realtime": true,
-      "delay": -1,
-      "cancelled": false
     },
     {
-      "line": "U2",
-      "direction": "Richtung Feldmoching",
-      "destination": "Feldmoching",
-      "time": 1794700860000,
+      "line": "154",
+      "direction": "Richtung Westerlandanger",
+      "destination": "Westerlandanger",
+      "time": 1794724320000,
       "realtime": false,
       "delay": 0,
       "cancelled": false
-    },
+    }
+  ],
+  "u2": [
     {
       "line": "U2",
       "direction": "Richtung Messestadt Ost",
@@ -88,9 +70,9 @@
       "line": "U2",
       "direction": "Richtung Feldmoching",
       "destination": "Feldmoching",
-      "time": 1794702480000,
-      "realtime": false,
-      "delay": 0,
+      "time": 1794702420000,
+      "realtime": true,
+      "delay": -1,
       "cancelled": false
     },
     {
@@ -158,9 +140,27 @@
     },
     {
       "line": "U2",
+      "direction": "Richtung Feldmoching",
+      "destination": "Feldmoching",
+      "time": 1794709680000,
+      "realtime": false,
+      "delay": 0,
+      "cancelled": false
+    },
+    {
+      "line": "U2",
       "direction": "Richtung Messestadt Ost",
       "destination": "Messestadt Ost",
       "time": 1794710580000,
+      "realtime": false,
+      "delay": 0,
+      "cancelled": false
+    },
+    {
+      "line": "U2",
+      "direction": "Richtung Feldmoching",
+      "destination": "Feldmoching",
+      "time": 1794711480000,
       "realtime": false,
       "delay": 0,
       "cancelled": false
