@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-15T13:03:59Z",
+  "updated_at": "2026-11-15T17:46:09Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Ukraine - Selenskyj: USA haben Gebietsabtretungen an Russland im Gegenzug für eine NATO-Mitgliedschaft ins Gespräch gebracht",
-      "summary": "Die USA haben nach Angaben des ukrainischen Präsidenten Selenskyj eine NATO-Mitgliedschaft seines Landes bei gleichzeitigen Gebietsabtretungen an Russland ins Gespräch gebracht.",
-      "url": "https://www.deutschlandfunk.de/selenskyj-usa-haben-gebietsabtretungen-an-russland-im-gegenzug-fuer-eine-nato-mitgliedschaft-ins-ges-114.html",
+      "title": "Baltikum - Estland vereitelt Anschlag auf Drohnenfabrik - Grenzübergänge nach Russland werden geschlossen",
+      "summary": "Estland will ab dem 1. Dezember alle Grenzübergänge nach Russland schließen. Zuvor hatten Sicherheitskräfte nach Regierungsangaben einen Anschlag auf eine estnische Drohnenfabrik vereitelt.",
+      "url": "https://www.deutschlandfunk.de/estland-vereitelt-anschlag-auf-drohnenfabrik-grenzuebergaenge-nach-russland-werden-geschlossen-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-15T13:00:54Z"
+      "published": "2026-11-15T17:41:49Z"
+    },
+    {
+      "title": "Ukraine-Krieg - Ukrainische Armee greift großes Chemie-Werk in Russland mit Drohnen an",
+      "summary": "Die Ukraine hat nach russischen Angaben mehrere Ziele in Russland angegriffen. In der russischen Teilrepublik Tatarstan wurde örtlichen Medien zufolge einer der landesweit größten Komplexe der petrochemischen Industrie getroffen.",
+      "url": "https://www.deutschlandfunk.de/ukrainische-armee-greift-grosses-chemie-werk-in-russland-mit-drohnen-an-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-15T17:41:49Z"
     },
     {
       "title": "Raumfahrt - SpaceX fängt Starship-Rakete erstmals wieder auf",
       "summary": "Dem US-Raumfahrtunternehmen SpaceX ist es erstmals gelungen, die obere Stufe der Riesenrakete Starship bei ihrer Rückkehr zur Erde aufzufangen.",
       "url": "https://www.deutschlandfunk.de/spacex-faengt-starship-rakete-erstmals-wieder-auf-102.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-15T13:00:54Z"
-    },
-    {
-      "title": "Ukraine-Krieg - Toter bei ukrainischem Angriff auf russisches Umspannwerk",
-      "summary": "Die Ukraine hat nach russischen Angaben mehrere Ziele in Russland angegriffen.",
-      "url": "https://www.deutschlandfunk.de/toter-bei-ukrainischem-angriff-auf-russisches-umspannwerk-102.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-15T13:00:54Z"
+      "published": "2026-11-15T17:41:49Z"
     }
   ]
 }
