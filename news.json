@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-14T17:45:55Z",
+  "updated_at": "2026-11-15T05:59:43Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
       "title": "Ukraine - Selenskyj: USA haben Gebietsabtretungen an Russland im Gegenzug für eine NATO-Mitgliedschaft ins Gespräch gebracht",
       "summary": "Die USA haben nach Angaben des ukrainischen Präsidenten Selenskyj eine NATO-Mitgliedschaft seines Landes bei gleichzeitigen Gebietsabtretungen an Russland ins Gespräch gebracht.",
-      "url": "https://www.deutschlandfunk.de/selenskyj-usa-haben-gebietsabtretungen-an-russland-im-gegenzug-fuer-eine-nato-mitgliedschaft-ins-ges-100.html",
+      "url": "https://www.deutschlandfunk.de/selenskyj-usa-haben-gebietsabtretungen-an-russland-im-gegenzug-fuer-eine-nato-mitgliedschaft-ins-ges-114.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-14T17:24:57Z"
+      "published": "2026-11-15T04:51:23Z"
     },
     {
-      "title": "Weißes Haus: Trump trifft sich mit Putin und Xi in China",
-      "summary": "Erstmals sollen Trump, Xi und Putin nach Angaben des Weißen Hauses zu einem Dreiertreffen nächste Woche in China zusammenkommen. Es soll auch um Atomwaffen gehen.",
-      "url": "https://www.zdfheute.de/politik/ausland/usa-dreiertreffen-trump-xi-putin-china-100.html",
-      "source": "ZDFheute",
-      "published": "2026-11-14T02:38:00Z"
+      "title": "Brief an die Partei - Früherer Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
+      "summary": "Der frühere Bundesarbeitsminister Heil strebt den SPD-Vorsitz an. Er habe sich entschieden, beim Parteitag Mitte Januar in Bremen zu kandidieren, schreibt der 54-Jährige in einem Brief an die Landesverbände und den Parteivorstand.",
+      "url": "https://www.deutschlandfunk.de/frueherer-arbeitsminister-hubertus-heil-kandidiert-fuer-spd-vorsitz-102.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-15T04:51:23Z"
     },
     {
-      "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
-      "summary": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
-      "source": "tagesschau",
-      "published": "2026-11-14T09:55:34Z"
+      "title": "Raumfahrt - SpaceX fängt Starship-Rakete erstmals wieder auf",
+      "summary": "Dem US-Raumfahrtunternehmen SpaceX ist es erstmals gelungen, die obere Stufe der Riesenrakete Starship bei ihrer Rückkehr zur Erde aufzufangen.",
+      "url": "https://www.deutschlandfunk.de/spacex-faengt-starship-rakete-erstmals-wieder-auf-102.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-15T04:51:23Z"
     }
   ]
 }
