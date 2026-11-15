@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T08:57:54Z",
+  "updated_at": "2026-11-15T13:03:59Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
@@ -7,21 +7,21 @@
       "summary": "Die USA haben nach Angaben des ukrainischen Präsidenten Selenskyj eine NATO-Mitgliedschaft seines Landes bei gleichzeitigen Gebietsabtretungen an Russland ins Gespräch gebracht.",
       "url": "https://www.deutschlandfunk.de/selenskyj-usa-haben-gebietsabtretungen-an-russland-im-gegenzug-fuer-eine-nato-mitgliedschaft-ins-ges-114.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-15T08:21:48Z"
-    },
-    {
-      "title": "SPD-Vorsitz - Hubertus Heil will kandidieren - Schneider und Miersch für Klingbeil",
-      "summary": "Bundesumweltminister Schneider und SPD-Fraktionschef Miersch haben sich für einen Verbleib von SPD-Chef Klingbeil an der Spitze der Partei ausgesprochen. Zuvor hatte der frühere Bundesarbeitsminister Heil als erster seine Kandidatur für den",
-      "url": "https://www.deutschlandfunk.de/hubertus-heil-will-kandidieren-schneider-und-miersch-fuer-klingbeil-100.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-15T08:21:48Z"
+      "published": "2026-11-15T13:00:54Z"
     },
     {
       "title": "Raumfahrt - SpaceX fängt Starship-Rakete erstmals wieder auf",
       "summary": "Dem US-Raumfahrtunternehmen SpaceX ist es erstmals gelungen, die obere Stufe der Riesenrakete Starship bei ihrer Rückkehr zur Erde aufzufangen.",
       "url": "https://www.deutschlandfunk.de/spacex-faengt-starship-rakete-erstmals-wieder-auf-102.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-15T08:21:48Z"
+      "published": "2026-11-15T13:00:54Z"
+    },
+    {
+      "title": "Ukraine-Krieg - Toter bei ukrainischem Angriff auf russisches Umspannwerk",
+      "summary": "Die Ukraine hat nach russischen Angaben mehrere Ziele in Russland angegriffen.",
+      "url": "https://www.deutschlandfunk.de/toter-bei-ukrainischem-angriff-auf-russisches-umspannwerk-102.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-15T13:00:54Z"
     }
   ]
 }
