@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-15T17:46:09Z",
+  "updated_at": "2026-11-16T06:30:04Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
+      "title": "Krieg im Jemen - Regierungstruppen ziehen sich nach Kämpfen mit Huthi-Miliz von Meerenge Bab al-Mandab zurück",
+      "summary": "Im Jemen ziehen sich die Truppen der international anerkannten Regierung von der strategisch wichtigen Meerenge Bab al-Mandab zurück.",
+      "url": "https://www.deutschlandfunk.de/regierungstruppen-ziehen-sich-nach-kaempfen-mit-huthi-miliz-von-meerenge-bab-al-mandab-zurueck-102.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-16T06:12:51Z"
+    },
+    {
+      "title": "Südliches Afrika - Madagaskar schließt offenbar Verteidigungsabkommen mit USA - nach Hinwendung zu Russland",
+      "summary": "In Madagaskar zeichnet sich ein Verteidigungsabkommen mit den Vereinigten Staaten ab.",
+      "url": "https://www.deutschlandfunk.de/madagaskar-schliesst-offenbar-verteidigungsabkommen-mit-usa-nach-hinwendung-zu-russland-102.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-16T06:12:51Z"
+    },
+    {
       "title": "Baltikum - Estland vereitelt Anschlag auf Drohnenfabrik - Grenzübergänge nach Russland werden geschlossen",
       "summary": "Estland will ab dem 1. Dezember alle Grenzübergänge nach Russland schließen. Zuvor hatten Sicherheitskräfte nach Regierungsangaben einen Anschlag auf eine estnische Drohnenfabrik vereitelt.",
-      "url": "https://www.deutschlandfunk.de/estland-vereitelt-anschlag-auf-drohnenfabrik-grenzuebergaenge-nach-russland-werden-geschlossen-100.html",
+      "url": "https://www.deutschlandfunk.de/estland-vereitelt-anschlag-auf-drohnenfabrik-grenzuebergaenge-nach-russland-werden-geschlossen-102.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-15T17:41:49Z"
-    },
-    {
-      "title": "Ukraine-Krieg - Ukrainische Armee greift großes Chemie-Werk in Russland mit Drohnen an",
-      "summary": "Die Ukraine hat nach russischen Angaben mehrere Ziele in Russland angegriffen. In der russischen Teilrepublik Tatarstan wurde örtlichen Medien zufolge einer der landesweit größten Komplexe der petrochemischen Industrie getroffen.",
-      "url": "https://www.deutschlandfunk.de/ukrainische-armee-greift-grosses-chemie-werk-in-russland-mit-drohnen-an-100.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-15T17:41:49Z"
-    },
-    {
-      "title": "Raumfahrt - SpaceX fängt Starship-Rakete erstmals wieder auf",
-      "summary": "Dem US-Raumfahrtunternehmen SpaceX ist es erstmals gelungen, die obere Stufe der Riesenrakete Starship bei ihrer Rückkehr zur Erde aufzufangen.",
-      "url": "https://www.deutschlandfunk.de/spacex-faengt-starship-rakete-erstmals-wieder-auf-102.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-15T17:41:49Z"
+      "published": "2026-11-16T06:12:51Z"
     }
   ]
 }
