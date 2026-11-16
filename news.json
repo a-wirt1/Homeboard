@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-16T15:16:05Z",
+  "updated_at": "2026-11-16T18:10:31Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Nach Treffen mit Söder - Merz: Stromsteuersenkung wird morgen beschlossen",
-      "summary": "Bundeskanzler Merz hat in Aussicht gestellt, dass die Stromsteuer auch für Privathaushalte nun doch 2027 sinkt. Man werde sich am Dienstag im Koalitionsausschuss einigen, sagte der CDU-Vorsitzende bei einem gemeinsamen Auftritt mit CSU-Chef",
-      "url": "https://www.deutschlandfunk.de/merz-stromsteuersenkung-wird-morgen-beschlossen-102.html",
+      "title": "Film - Robert Pattinson wird der neue James Bond",
+      "summary": "Robert Pattinson wird der neue James Bond-Darsteller: Der 40-Jährige ist der siebte Schauspieler, der die Rolle des berühmten britischen Spions übernimmt.",
+      "url": "https://www.deutschlandfunk.de/robert-pattinson-wird-der-neue-james-bond-106.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-16T15:05:37Z"
-    },
-    {
-      "title": "Mecklenburg-Vorpommern - Schwesig als Ministerpräsidentin wiedergewählt",
-      "summary": "Manuela ​Schwesig bleibt Ministerpräsidentin in Mecklenburg-Vorpommern. Im Schweriner Landtag wählten die Abgeordneten von SPD, Linken und Grünen die SPD-Politikerin erneut zur Regierungschefin. Schwesig erhielt 39 von ‌68 abgegebenen Stimm",
-      "url": "https://www.deutschlandfunk.de/schwesig-als-ministerpraesidentin-wiedergewaehlt-100.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-16T15:05:37Z"
+      "published": "2026-11-16T17:51:55Z"
     },
     {
       "title": "Ukraine-Krieg - Russische Besatzungesbhörden melden ukrainische Angriff auf Krim-Brücke",
       "summary": "Die Ukraine hat nach russischen Angaben erneut die Brücke zwischen der Halbinsel Krim und Russland angegriffen.",
       "url": "https://www.deutschlandfunk.de/russische-besatzungesbhoerden-melden-ukrainische-angriff-auf-krim-bruecke-102.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-16T15:05:37Z"
+      "published": "2026-11-16T17:51:55Z"
+    },
+    {
+      "title": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
+      "summary": "Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Der US-Elektroautobauer will damit ein neues Produktionsgebäude finanzieren. Künftig sollen dort \"Cybercabs\" - fahrerlose Taxis - gebaut werd",
+      "url": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
+      "source": "tagesschau",
+      "published": "2026-11-16T17:59:15Z"
     }
   ]
 }
