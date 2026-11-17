@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T18:16:28.651478+00:00",
+  "updated_at": "2026-11-17T06:22:17.786205+00:00",
   "source": "Eventsimple, EventIndex, Evensos (when available)",
   "events": [
     {
@@ -21,6 +21,13 @@
       "url": "https://www.muenchen.de/veranstaltungen/muenchner-christkindlmarkt-marienplatz",
       "when": "Fri 20.11. 10:00",
       "venue": "Marienplatz in München",
+      "category": "MARKT"
+    },
+    {
+      "title": "Münchner Christkindlmarkt 2026",
+      "url": "https://www.christkindlmarkt-muenchen.de/",
+      "when": "Fri 27.11.",
+      "venue": "Marienplatz",
       "category": "MARKT"
     },
     {
@@ -57,19 +64,12 @@
       "when": "Heute",
       "venue": "Deutsches Museum München",
       "category": "KUNST"
-    },
-    {
-      "title": "Barcelona Moderna – Von Gaudí bis Picasso",
-      "url": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/barcelona-moderna",
-      "when": "Heute",
-      "venue": "Kunsthalle München",
-      "category": "KUNST"
     }
   ],
   "source_stats": {
     "Eventsimple": {
-      "raw": 13,
-      "eligible": 13,
+      "raw": 12,
+      "eligible": 12,
       "status": "ok"
     },
     "EventIndex": {
