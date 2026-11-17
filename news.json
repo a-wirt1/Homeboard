@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-17T09:14:14Z",
+  "updated_at": "2026-11-17T13:21:56Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Film - Robert Pattinson wird der neue James Bond",
-      "summary": "Robert Pattinson wird der neue James Bond-Darsteller: Der 40-Jährige ist der siebte Schauspieler, der die Rolle des berühmten britischen Spions übernimmt.",
-      "url": "https://www.deutschlandfunk.de/robert-pattinson-wird-der-neue-james-bond-112.html",
+      "title": "Krieg - Wichtige Krim-Brücke nach Angriff teilweise eingestürzt",
+      "summary": "Die wichtige Brücke zwischen Russland und der Halbinsel Krim ist nach ukrainischen Angriffen teilweise eingestürzt. Präsident Selenskyj veröffentlichte ein Video, auf dem zu sehen ist, dass einer der Brückenbögen zerstört ist. Selenskyj spr",
+      "url": "https://www.deutschlandfunk.de/wichtige-krim-bruecke-nach-angriff-teilweise-eingestuerzt-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-17T09:01:07Z"
+      "published": "2026-11-17T13:05:04Z"
+    },
+    {
+      "title": "Deutsche Bank verlor Trump-Daten",
+      "summary": "Nach Trumps Wahlsieg schuf die Deutsche Bank Sonderregeln für ihren berühmtesten Kunden. Interne Unterlagen zeigen Sorge vor Interessenkonflikten - und eine Datenpanne.",
+      "url": "https://www.zdfheute.de/wirtschaft/deutsche-bank-trump-daten-100.html",
+      "source": "ZDFheute",
+      "published": "2026-11-17T11:51:00Z"
     },
     {
       "title": "Bundesregierung - Koalitionsausschuss will heute über Stromsteuer-Senkung für alle entscheiden",
       "summary": "Die Spitzen von Union und SPD kommen heute zu einem Koalitionsausschuss im Kanzleramt zusammen. Im Mittelpunkt des Treffens steht die geplante Senkung der Stromsteuer auch für Privathaushalte auf das europäische Mindestmaß.",
       "url": "https://www.deutschlandfunk.de/koalitionsausschuss-will-heute-ueber-stromsteuer-senkung-fuer-alle-entscheiden-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-17T09:01:07Z"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Erste Vorgespräche mit Europas Unterhändlern",
-      "summary": "Europäische Unterhändler haben erste Vorgespräche mit den USA und der Ukraine über eine Beendigung des Kriegs geführt - und dabei die Vertreter instruiert, die später mit Russland verhandeln.",
-      "url": "https://www.tagesschau.de/ausland/europa/europa-ukraine-usa-100.html",
-      "source": "tagesschau",
-      "published": "2026-11-17T03:28:15Z"
+      "published": "2026-11-17T13:05:04Z"
     }
   ]
 }
