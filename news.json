@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-16T18:10:31Z",
+  "updated_at": "2026-11-17T06:10:54Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
+      "title": "Krieg gegen die Ukraine - Klitschko meldet weitere russische Angriffe auf Kiew",
+      "summary": "Die russischen Streitkräfte haben in der Nacht erneut Ziele in der ukrainischen Hauptstadt Kiew angegriffen.",
+      "url": "https://www.deutschlandfunk.de/klitschko-meldet-weitere-russische-angriffe-auf-kiew-102.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-17T05:10:27Z"
+    },
+    {
       "title": "Film - Robert Pattinson wird der neue James Bond",
       "summary": "Robert Pattinson wird der neue James Bond-Darsteller: Der 40-Jährige ist der siebte Schauspieler, der die Rolle des berühmten britischen Spions übernimmt.",
-      "url": "https://www.deutschlandfunk.de/robert-pattinson-wird-der-neue-james-bond-106.html",
+      "url": "https://www.deutschlandfunk.de/robert-pattinson-wird-der-neue-james-bond-112.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-16T17:51:55Z"
+      "published": "2026-11-17T05:10:27Z"
     },
     {
-      "title": "Ukraine-Krieg - Russische Besatzungesbhörden melden ukrainische Angriff auf Krim-Brücke",
-      "summary": "Die Ukraine hat nach russischen Angaben erneut die Brücke zwischen der Halbinsel Krim und Russland angegriffen.",
-      "url": "https://www.deutschlandfunk.de/russische-besatzungesbhoerden-melden-ukrainische-angriff-auf-krim-bruecke-102.html",
+      "title": "Bundesregierung - Koalitionsausschuss will heute über Stromsteuer-Senkung für alle entscheiden",
+      "summary": "Die Spitzen von Union und SPD kommen heute zu einem Koalitionsausschuss im Kanzleramt zusammen.",
+      "url": "https://www.deutschlandfunk.de/koalitionsausschuss-will-heute-ueber-stromsteuer-senkung-fuer-alle-entscheiden-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-16T17:51:55Z"
-    },
-    {
-      "title": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
-      "summary": "Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Der US-Elektroautobauer will damit ein neues Produktionsgebäude finanzieren. Künftig sollen dort \"Cybercabs\" - fahrerlose Taxis - gebaut werd",
-      "url": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
-      "source": "tagesschau",
-      "published": "2026-11-16T17:59:15Z"
+      "published": "2026-11-17T05:10:27Z"
     }
   ]
 }
