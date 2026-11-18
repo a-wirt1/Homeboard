@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T06:16:30Z",
+  "updated_at": "2026-11-18T09:15:47Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
@@ -10,18 +10,18 @@
       "published": "2026-11-17T18:59:39Z"
     },
     {
-      "title": "Karlsruhe - Bundesverfassungsgericht entscheidet heute über BSW-Einspruch gegen Bundestagswahl",
-      "summary": "Knapp zwei Jahre nach der Bundestagswahl 2025 will das Bundesverfassungsgericht heute Vormittag seine Entscheidung über eine Wahlprüfungsbeschwerde des BSW veröffentlichen.",
-      "url": "https://www.deutschlandfunk.de/bundesverfassungsgericht-entscheidet-heute-ueber-bsw-einspruch-gegen-bundestagswahl-110.html",
+      "title": "Urteil - Bundesverfassungsgericht verwirft Beschwerde des BSW gegen Bundestagswahl als unzulässig",
+      "summary": "Das Stimmen zur Bundestagswahl vom Februar vergangenen Jahres müssen nicht neu ausgezählt werden. Das Bundesverfassungsgericht verwarf eine Wahlprüfungsbeschwerde des BSW als unzulässig. Die Beschwerde sei nicht ausreichend begründet.",
+      "url": "https://www.deutschlandfunk.de/bundesverfassungsgericht-verwirft-beschwerde-des-bsw-gegen-bundestagswahl-als-unzulaessig-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-18T06:11:20Z"
+      "published": "2026-11-18T09:07:21Z"
     },
     {
-      "title": "USA - Demokraten gewinnen auch Senatssitz in Alaska",
-      "summary": "Bei den Zwischenwahlen in den USA vor zwei Wochen haben die Demokraten auch im Bundesstaat Alaska einen Senatssitz gewonnen.",
-      "url": "https://www.deutschlandfunk.de/demokraten-gewinnen-auch-senatssitz-in-alaska-102.html",
+      "title": "Aktueller Bericht - Religionsbeauftragter Rachel: Russland verletzt in den besetzten Gebieten der Ukraine Religions- und Weltanschauungsfreiheit",
+      "summary": "In den von Russland besetzten Gebieten der Ukraine ist nach Ansicht der Bundesregierung die Religions- und Weltanschauungsfreiheit gefährdet.",
+      "url": "https://www.deutschlandfunk.de/religionsbeauftragter-rachel-russland-verletzt-in-den-besetzten-gebieten-der-ukraine-religions-und-w-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-18T06:11:20Z"
+      "published": "2026-11-18T09:07:21Z"
     }
   ]
 }
