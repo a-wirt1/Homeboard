@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-11-18T09:15:47Z",
+  "updated_at": "2026-11-18T13:25:52Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
+    {
+      "title": "Krieg gegen die Ukraine - Wadephul: Europa muss bei Friedensgesprächen mit am Tisch sitzen",
+      "summary": "Außenminister Wadephul besteht vor dem morgigen Treffen der USA, Russlands und Chinas auf einer Beteiligung Europas an Gesprächen über ein Ende des Ukraine-Kriegs.",
+      "url": "https://www.deutschlandfunk.de/wadephul-europa-muss-bei-friedensgespraechen-mit-am-tisch-sitzen-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-18T13:20:11Z"
+    },
     {
       "title": "Krieg gegen die Ukraine: Wie schwer ist die Krim-Brücke getroffen?",
       "summary": "Die Krim-Brücke ist nicht nur eine wichtige Verbindung zwischen Russland und der annektierten Krim. Sie ist auch ein Symbol für Russlands Herrschaft. Nun hat die Ukraine die Brücke mit einem Großangriff schwer beschädigt. Was bedeutet das?",
@@ -10,18 +17,11 @@
       "published": "2026-11-17T18:59:39Z"
     },
     {
-      "title": "Urteil - Bundesverfassungsgericht verwirft Beschwerde des BSW gegen Bundestagswahl als unzulässig",
-      "summary": "Das Stimmen zur Bundestagswahl vom Februar vergangenen Jahres müssen nicht neu ausgezählt werden. Das Bundesverfassungsgericht verwarf eine Wahlprüfungsbeschwerde des BSW als unzulässig. Die Beschwerde sei nicht ausreichend begründet.",
-      "url": "https://www.deutschlandfunk.de/bundesverfassungsgericht-verwirft-beschwerde-des-bsw-gegen-bundestagswahl-als-unzulaessig-100.html",
+      "title": "Ukraine-Krieg - Von der Leyen schlägt neues Darlehen für die Ukraine von 45 Milliarden Euro vor",
+      "summary": "Die EU-Kommission hat zur Unterstützung der Ukraine ein weiteres Darlehen von rund 45 Milliarden Euro vorgeschlagen. Kommissionspräsidentin von der Leyen erklärte, dadurch könnten rund zwei Drittel der Finanzierungslücke im ukrainischen Hau",
+      "url": "https://www.deutschlandfunk.de/von-der-leyen-schlaegt-neues-darlehen-fuer-die-ukraine-von-45-milliarden-euro-vor-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-18T09:07:21Z"
-    },
-    {
-      "title": "Aktueller Bericht - Religionsbeauftragter Rachel: Russland verletzt in den besetzten Gebieten der Ukraine Religions- und Weltanschauungsfreiheit",
-      "summary": "In den von Russland besetzten Gebieten der Ukraine ist nach Ansicht der Bundesregierung die Religions- und Weltanschauungsfreiheit gefährdet.",
-      "url": "https://www.deutschlandfunk.de/religionsbeauftragter-rachel-russland-verletzt-in-den-besetzten-gebieten-der-ukraine-religions-und-w-100.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-18T09:07:21Z"
+      "published": "2026-11-18T13:20:11Z"
     }
   ]
 }
