@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T02:24:26.502463Z",
+  "updated_at": "2026-11-18T03:18:20.989636Z",
   "bus": [
     {
       "line": "154",
@@ -124,9 +124,9 @@
       "line": "U2",
       "direction": "Richtung Feldmoching",
       "destination": "Feldmoching",
-      "time": 1794973080000,
-      "realtime": false,
-      "delay": 0,
+      "time": 1794973200000,
+      "realtime": true,
+      "delay": 2,
       "cancelled": false
     },
     {
