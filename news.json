@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-17T18:09:34Z",
+  "updated_at": "2026-11-18T06:16:30Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Krieg - Wichtige Krim-Brücke nach Angriff teilweise eingestürzt",
-      "summary": "Die wichtige Brücke zwischen Russland und der Halbinsel Krim ist nach ukrainischen Angriffen teilweise eingestürzt. Präsident Selenskyj veröffentlichte ein Video, auf dem zu sehen ist, dass einer der Brückenbögen zerstört ist. Selenskyj spr",
-      "url": "https://www.deutschlandfunk.de/wichtige-krim-bruecke-nach-angriff-teilweise-eingestuerzt-100.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-17T17:39:09Z"
-    },
-    {
-      "title": "Ukraine-Krieg - Finnischer Präsident Stubb wirbt für Diplomatie: \"Nur wer über Frieden spricht, kann ihn erreichen\"",
-      "summary": "Der finnische Präsident Stubb hat für stärkere diplomatische Bemühungen zur Beendigung des Ukraine-Krieges geworben.",
-      "url": "https://www.deutschlandfunk.de/finnischer-praesident-stubb-wirbt-fuer-diplomatie-nur-wer-ueber-frieden-spricht-kann-ihn-erreichen-102.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-17T17:39:09Z"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Erste Vorgespräche mit Europas Unterhändlern",
-      "summary": "Europäische Unterhändler haben erste Vorgespräche mit den USA und der Ukraine über eine Beendigung des Kriegs geführt - und dabei die Vertreter instruiert, die später mit Russland verhandeln.",
-      "url": "https://www.tagesschau.de/ausland/europa/europa-ukraine-usa-100.html",
+      "title": "Krieg gegen die Ukraine: Wie schwer ist die Krim-Brücke getroffen?",
+      "summary": "Die Krim-Brücke ist nicht nur eine wichtige Verbindung zwischen Russland und der annektierten Krim. Sie ist auch ein Symbol für Russlands Herrschaft. Nun hat die Ukraine die Brücke mit einem Großangriff schwer beschädigt. Was bedeutet das?",
+      "url": "https://www.tagesschau.de/ausland/europa/krim-bruecke-152.html",
       "source": "tagesschau",
-      "published": "2026-11-17T03:28:15Z"
+      "published": "2026-11-17T18:59:39Z"
+    },
+    {
+      "title": "Karlsruhe - Bundesverfassungsgericht entscheidet heute über BSW-Einspruch gegen Bundestagswahl",
+      "summary": "Knapp zwei Jahre nach der Bundestagswahl 2025 will das Bundesverfassungsgericht heute Vormittag seine Entscheidung über eine Wahlprüfungsbeschwerde des BSW veröffentlichen.",
+      "url": "https://www.deutschlandfunk.de/bundesverfassungsgericht-entscheidet-heute-ueber-bsw-einspruch-gegen-bundestagswahl-110.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-18T06:11:20Z"
+    },
+    {
+      "title": "USA - Demokraten gewinnen auch Senatssitz in Alaska",
+      "summary": "Bei den Zwischenwahlen in den USA vor zwei Wochen haben die Demokraten auch im Bundesstaat Alaska einen Senatssitz gewonnen.",
+      "url": "https://www.deutschlandfunk.de/demokraten-gewinnen-auch-senatssitz-in-alaska-102.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-18T06:11:20Z"
     }
   ]
 }
