@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T18:10:41.933226+00:00",
+  "updated_at": "2026-11-19T06:22:09.545826+00:00",
   "source": "Eventsimple, EventIndex, Evensos (when available)",
   "events": [
     {
@@ -38,13 +38,6 @@
       "category": "FESTIVAL"
     },
     {
-      "title": "Zehn Leben",
-      "url": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/zehn-leben-villa-stuck",
-      "when": "Heute",
-      "venue": "Museum Villa Stuck",
-      "category": "KUNST"
-    },
-    {
       "title": "Steina: Playback",
       "url": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/steina-playback",
       "when": "Heute",
@@ -64,12 +57,19 @@
       "when": "Heute",
       "venue": "Deutsches Museum München",
       "category": "KUNST"
+    },
+    {
+      "title": "Barcelona Moderna – Von Gaudí bis Picasso",
+      "url": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/barcelona-moderna",
+      "when": "Heute",
+      "venue": "Kunsthalle München",
+      "category": "KUNST"
     }
   ],
   "source_stats": {
     "Eventsimple": {
-      "raw": 12,
-      "eligible": 12,
+      "raw": 11,
+      "eligible": 11,
       "status": "ok"
     },
     "EventIndex": {
