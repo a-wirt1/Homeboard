@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-19T06:12:51Z",
+  "updated_at": "2026-11-19T09:17:36Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "KI-Software Claude - Anthropic überflügelt bei Börsengang SpaceX-Erlös",
-      "summary": "Der KI-Firma Anthropic ist ein Rekord-Börsengang gelungen.",
-      "url": "https://www.deutschlandfunk.de/anthropic-ueberfluegelt-bei-boersengang-spacex-erloes-100.html",
+      "title": "KI-Software Claude - Anthropic erzielt bei Börsengang Rekorderlös - und überflügelt SpaceX",
+      "summary": "Der KI-Firma Anthropic ist ein Rekord-Börsengang gelungen. Der Aktienverkauf brachte laut einer Mitteilung 81,3 Milliarden Dollar ein. Das Interesse der Anleger war so groß, dass Anthropic nicht nur den Ausgabepreis erhöhte, sondern auch me",
+      "url": "https://www.deutschlandfunk.de/anthropic-erzielt-bei-boersengang-rekorderloes-und-ueberfluegelt-spacex-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-19T05:45:32Z"
+      "published": "2026-11-19T08:23:24Z"
     },
     {
-      "title": "Ukraine-Gipfel XXL: Welche Staatsgäste kommen und warum",
-      "summary": "Rund 30 Staats- und Regierungschefs treffen sich zum Mega-Gipfel im Kanzleramt. Es geht um Sicherheitsgarantien für die Ukraine, Verteidigung und die nächsten Verhandlungsschritte.",
-      "url": "https://www.zdfheute.de/politik/ukraine-gipfel-kanzleramt-koalition-der-willigen-100.html",
-      "source": "ZDFheute",
-      "published": "2026-11-19T05:00:00Z"
+      "title": "Klingbeil und Orcel - Einigung mit UniCredit: Bundesregierung will Übernahme der Commerzbank nun unterstützen",
+      "summary": "Die Bundesregierung ‌gibt ihren Widerstand gegen die geplante Übernahme der Commerzbank durch die italienische ⁠UniCredit auf.",
+      "url": "https://www.deutschlandfunk.de/einigung-mit-unicredit-bundesregierung-will-uebernahme-der-commerzbank-nun-unterstuetzen-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-19T08:23:24Z"
     },
     {
-      "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
-      "summary": "UniCredit garantiert Standort und Arbeitnehmerrechte - der Bund verzichtet auf Aufsichtsratsvertreter: Die Bundesregierung und die italienische Großbank haben sich bei der Commerzbank-Übernahme geeinigt.",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
-      "source": "tagesschau",
-      "published": "2026-11-19T01:06:22Z"
+      "title": "Straße von Kertsch - Ukraine greift erneut Krim-Brücke an",
+      "summary": "Die ukrainischen Streitkräfte haben nach russischen Angaben erneut die Krim-Brücke attackiert.",
+      "url": "https://www.deutschlandfunk.de/ukraine-greift-erneut-krim-bruecke-an-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-19T08:23:24Z"
     }
   ]
 }
