@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-18T18:01:41Z",
+  "updated_at": "2026-11-19T06:12:51Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Krieg gegen die Ukraine - Wadephul: Europa muss bei Friedensgesprächen mit am Tisch sitzen",
-      "summary": "Außenminister Wadephul besteht vor dem morgigen Treffen der USA, Russlands und Chinas auf einer Beteiligung Europas an Gesprächen über ein Ende des Ukraine-Kriegs.",
-      "url": "https://www.deutschlandfunk.de/wadephul-europa-muss-bei-friedensgespraechen-mit-am-tisch-sitzen-100.html",
+      "title": "KI-Software Claude - Anthropic überflügelt bei Börsengang SpaceX-Erlös",
+      "summary": "Der KI-Firma Anthropic ist ein Rekord-Börsengang gelungen.",
+      "url": "https://www.deutschlandfunk.de/anthropic-ueberfluegelt-bei-boersengang-spacex-erloes-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-18T17:51:03Z"
+      "published": "2026-11-19T05:45:32Z"
     },
     {
-      "title": "Krieg in der Ukraine - Mehrere Tote nach russischen Angriffen auf Odessa und Region Saporischschja",
-      "summary": "Bei russischen Angriffen auf die Hafenstadt Odessa und die Region Saporischschja in der Ukraine hat es nach Behördenangaben mehrere Tote gegeben.",
-      "url": "https://www.deutschlandfunk.de/mehrere-tote-nach-russischen-angriffen-auf-odessa-und-region-saporischschja-100.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-18T17:51:03Z"
+      "title": "Ukraine-Gipfel XXL: Welche Staatsgäste kommen und warum",
+      "summary": "Rund 30 Staats- und Regierungschefs treffen sich zum Mega-Gipfel im Kanzleramt. Es geht um Sicherheitsgarantien für die Ukraine, Verteidigung und die nächsten Verhandlungsschritte.",
+      "url": "https://www.zdfheute.de/politik/ukraine-gipfel-kanzleramt-koalition-der-willigen-100.html",
+      "source": "ZDFheute",
+      "published": "2026-11-19T05:00:00Z"
     },
     {
-      "title": "Ukraine-Krieg - Von der Leyen schlägt neues Darlehen für die Ukraine von 45 Milliarden Euro vor",
-      "summary": "Die EU-Kommission hat zur Unterstützung der Ukraine ein weiteres Darlehen von rund 45 Milliarden Euro vorgeschlagen. Kommissionspräsidentin von der Leyen erklärte, dadurch könnten rund zwei Drittel der Finanzierungslücke im ukrainischen Hau",
-      "url": "https://www.deutschlandfunk.de/von-der-leyen-schlaegt-neues-darlehen-fuer-die-ukraine-von-45-milliarden-euro-vor-100.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-18T17:51:03Z"
+      "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
+      "summary": "UniCredit garantiert Standort und Arbeitnehmerrechte - der Bund verzichtet auf Aufsichtsratsvertreter: Die Bundesregierung und die italienische Großbank haben sich bei der Commerzbank-Übernahme geeinigt.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
+      "source": "tagesschau",
+      "published": "2026-11-19T01:06:22Z"
     }
   ]
 }
