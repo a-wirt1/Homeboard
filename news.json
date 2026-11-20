@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-20T13:25:30Z",
+  "updated_at": "2026-11-20T18:07:18Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Ukraine-Krieg - Pistorius: Einladung von Putin auszuschlagen, wäre das falsche Signal - Moskau als Ort komme aber nicht in Frage",
+      "title": "Ukraine-Krieg - Russische Flugobjekte in Polen: NATO sichert Unterstützung zu",
+      "summary": "Nach dem Absturz mehrerer russischer Flugobjekte in Polen hat die NATO dem Mitgliedsland Unterstützung zugesichert.",
+      "url": "https://www.deutschlandfunk.de/russische-flugobjekte-in-polen-nato-sichert-unterstuetzung-zu-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-20T17:49:35Z"
+    },
+    {
+      "title": "Ukraine-Krieg - Pistorius: Einladung Putins auszuschlagen, wäre das falsche Signal",
       "summary": "Bundesverteidigungsminister ​Pistorius zeigt sich offen für das Gesprächsangebot des russischen Präsidenten Putin zum Ukraine-Krieg. Der SPD-Politiker sagte bei einem Besuch in Warschau, nur wer rede, könne am Ende zu Ergebnissen kommen.",
-      "url": "https://www.deutschlandfunk.de/pistorius-einladung-von-putin-auszuschlagen-waere-das-falsche-signal-moskau-als-ort-komme-aber-nicht-100.html",
+      "url": "https://www.deutschlandfunk.de/pistorius-einladung-putins-auszuschlagen-waere-das-falsche-signal-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-20T13:16:53Z"
+      "published": "2026-11-20T17:49:35Z"
     },
     {
-      "title": "Ukraine-Krieg - Polen wirft Russland nach Luftraumverletzung Provokation vor",
-      "summary": "In Polen sind nach Angaben der Regierung mehrere russische Flugobjekte abgestürzt.",
-      "url": "https://www.deutschlandfunk.de/polen-wirft-russland-nach-luftraumverletzung-provokation-vor-100.html",
+      "title": "Ukraine-Krieg - Nächtlicher russischer Angriff mit 400 Drohnen auf die Ukraine - mindestens 8 Tote",
+      "summary": "Russland hat die Ukraine in der vergangenen Nacht mit mehr als 400 Drohnen und rund 110 Raketen attackiert.",
+      "url": "https://www.deutschlandfunk.de/naechtlicher-russischer-angriff-mit-400-drohnen-auf-die-ukraine-mindestens-8-tote-102.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-20T13:16:53Z"
-    },
-    {
-      "title": "Türkei - Urteil hindert Erdogan-Herausforderer Imamoglu an Präsidentschaftskandidatur - Gericht bestätigt Aberkennung des Diploms",
-      "summary": "Ein türkisches Gericht hat die Aberkennung des Hochschulabschlusses des inhaftierten Istanbuler Bürgermeisters Imamoglu bestätigt.",
-      "url": "https://www.deutschlandfunk.de/urteil-hindert-erdogan-herausforderer-imamoglu-an-praesidentschaftskandidatur-gericht-bestaetigt-abe-100.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-20T13:16:53Z"
+      "published": "2026-11-20T17:49:35Z"
     }
   ]
 }
