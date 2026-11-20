@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-19T18:01:46Z",
+  "updated_at": "2026-11-20T06:16:22Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Ukraine-Krieg - Ukrainischer Angriff auf Krim-Brücke: Zugverkehr soll am Nachmittag wieder aufgenommen werden",
-      "summary": "Nach dem erneuten ukrainischen Luftangriff auf die Krim-Brücke soll der Zugverkehr über die Verbindung am Nachmittag wieder aufgenommen werden.",
-      "url": "https://www.deutschlandfunk.de/ukrainischer-angriff-auf-krim-bruecke-zugverkehr-soll-am-nachmittag-wieder-aufgenommen-werden-100.html",
+      "title": "Rohingya - Bürgerrechtsorganisationen begrüßen Völkermord-Urteil",
+      "summary": "Mehrere Bürgerrechtsorganisationen der Minderheit der Rohingya haben das Urteil des Internationalen Gerichtshofs gegen Myanmar begrüßt. In einer gemeinsamen Stellungnahme erklärten 219 Exil-Organisationen aus Myanmar, es könne nie wieder ge",
+      "url": "https://www.deutschlandfunk.de/buergerrechtsorganisationen-begruessen-voelkermord-urteil-102.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-19T17:58:27Z"
+      "published": "2026-11-20T05:23:37Z"
     },
     {
-      "title": "Klingbeil und Orcel - Einigung mit UniCredit: Bundesregierung will Übernahme der Commerzbank nun unterstützen",
-      "summary": "Die Bundesregierung ‌gibt ihren Widerstand gegen die geplante Übernahme der Commerzbank durch die italienische ⁠UniCredit auf.",
-      "url": "https://www.deutschlandfunk.de/einigung-mit-unicredit-bundesregierung-will-uebernahme-der-commerzbank-nun-unterstuetzen-100.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-19T17:58:27Z"
+      "title": "Aktuelles zum Krieg in der Ukraine",
+      "summary": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+      "source": "ZDFheute",
+      "published": "2026-11-19T21:25:00Z"
     },
     {
-      "title": "Urteil in Den Haag - Internationaler Gerichtshof macht Myanmar verantwortlich für Völkermord an Rohingya",
-      "summary": "Das Vorgehen der Militärmachthaber in Myanmar gegen die Minderheit der Rohingya war laut einer Entscheidung des Internationalen Gerichtshofs ein Völkermord. Das Gericht in Den Haag erklärte, Myanmar habe einen wesentlichen Teil der Minderhe",
-      "url": "https://www.deutschlandfunk.de/internationaler-gerichtshof-macht-myanmar-verantwortlich-fuer-voelkermord-an-rohingya-100.html",
+      "title": "Türkei - Urteil hindert Erdogan-Herausforderer Imamoglu an Präsidentschaftskandidatur - Gericht bestätigt Aberkennung des Diploms",
+      "summary": "Ein türkisches Gericht hat die Aberkennung des Hochschulabschlusses des inhaftierten Istanbuler Bürgermeisters Imamoglu bestätigt.",
+      "url": "https://www.deutschlandfunk.de/urteil-hindert-erdogan-herausforderer-imamoglu-an-praesidentschaftskandidatur-gericht-bestaetigt-abe-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-19T17:58:27Z"
+      "published": "2026-11-20T05:23:37Z"
     }
   ]
 }
