@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T06:04:08Z",
+  "updated_at": "2026-11-21T08:57:25Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
@@ -7,21 +7,21 @@
       "summary": "Der Bayer-Konzern hat im ‌Rechtsstreit ⁠um mutmaßliche ⁠Krebsrisiken eines glyphosat-haltigen Unkrautvernichters einen weiteren juristischen Erfolg erzielt.",
       "url": "https://www.deutschlandfunk.de/us-gericht-billigt-milliardenvergleich-von-bayern-zur-beilegung-von-glyphosat-klagen-102.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-21T05:44:27Z"
+      "published": "2026-11-21T08:44:16Z"
+    },
+    {
+      "title": "Nach Gipfel in Brüssel - CDU-Politiker McAllister begrüßt Abkommen zwischen EU und Großbritannien",
+      "summary": "Der CDU-Europaabgeordnete McAllister hat die Wiederannäherung der EU und Großbritanniens begrüßt.",
+      "url": "https://www.deutschlandfunk.de/cdu-politiker-mcallister-begruesst-abkommen-zwischen-eu-und-grossbritannien-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-21T08:44:16Z"
     },
     {
       "title": "Antalya - Weltklimakonferenz geht in die Verlängerung - EU fordert Änderungen",
-      "summary": "Die Weltklimakonferenz in der Türkei geht in die Verlängerung. Gerungen wird laut Medienberichten unter anderem um Formulierungen zu fossilen Brennstoffen. In dem aktuellen Entwurf der Abschlusserklärung wird ein Ausstieg aus Kohle, Öl und ",
+      "summary": "Bei der UNO-Klimakonferenz in der Türkei dauern die Verhandlungen an. Offiziell sollten die Beratungen bereits gestern abgeschlossen werden. Laut Medienberichten wird unter anderem noch über Formulierungen zu fossilen Brennstoffen diskutier",
       "url": "https://www.deutschlandfunk.de/weltklimakonferenz-geht-in-die-verlaengerung-eu-fordert-aenderungen-114.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-21T05:44:27Z"
-    },
-    {
-      "title": "Französische Justiz - Ermittlungen gegen Depardieu und Houellebecq wegen Vorwurf der gemeinschaftlichen Vergewaltigung",
-      "summary": "Die französische Justiz ermittelt gegen den Schauspieler Gérard Depardieu und den Schriftsteller Michel Houellebecq wegen des Verdachts der gemeinschaftlichen Vergewaltigung.",
-      "url": "https://www.deutschlandfunk.de/ermittlungen-gegen-depardieu-und-houellebecq-wegen-vorwurf-der-gemeinschaftlichen-vergewaltigung-110.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-21T05:44:27Z"
+      "published": "2026-11-21T08:44:16Z"
     }
   ]
 }
