@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-11-21T06:16:58.472860+00:00",
+  "updated_at": "2026-11-21T12:04:18.365127+00:00",
   "source": "Eventsimple, EventIndex, Evensos (when available)",
   "events": [
-    {
-      "title": "Tollwood-Winterfestival in München 2026: Programm und Infos",
-      "url": "https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/tollwood-winterfestival-2026",
-      "when": "Tue 24.11. 14:00",
-      "venue": "Theresienwiese",
-      "category": "MARKT"
-    },
     {
       "title": "Münchner Christkindlmarkt 2026",
       "url": "https://www.christkindlmarkt-muenchen.de/en/home",
@@ -68,8 +61,8 @@
   ],
   "source_stats": {
     "Eventsimple": {
-      "raw": 9,
-      "eligible": 9,
+      "raw": 8,
+      "eligible": 8,
       "status": "ok"
     },
     "EventIndex": {
