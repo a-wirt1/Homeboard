@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T18:18:04.279291+00:00",
+  "updated_at": "2026-11-21T06:16:58.472860+00:00",
   "source": "Eventsimple, EventIndex, Evensos (when available)",
   "events": [
     {
@@ -68,7 +68,7 @@
   ],
   "source_stats": {
     "Eventsimple": {
-      "raw": 11,
+      "raw": 9,
       "eligible": 9,
       "status": "ok"
     },
