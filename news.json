@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-22T13:06:12Z",
+  "updated_at": "2026-11-22T17:51:31Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Weltklimakonferenz: Keine Einigung auf Abschlusserklärung",
-      "summary": "Die Teilnehmer der Weltklimakonferenz im türkischen Antalya haben sich nicht auf eine gemeinsame Abschlusserklärung einigen können. Zuvor hatte es am Papier unter anderem von Deutschland und der EU scharfe Kritik gegeben.",
-      "url": "https://www.tagesschau.de/ausland/asien/eilmeldung-weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
-      "source": "tagesschau",
-      "published": "2026-11-22T12:40:13Z"
+      "title": "Südostasien - 39 Vermisste nach Brand in Süßwarenfabrik in Indonesien",
+      "summary": "In Indonesien werden nach einem Brand in einer Süßwarenfabrik 39 Menschen vermisst.",
+      "url": "https://www.deutschlandfunk.de/39-vermisste-nach-brand-in-suesswarenfabrik-in-indonesien-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-22T17:48:31Z"
     },
     {
       "title": "Ukraine-Krieg - London und Kiew vereinbaren Kooperation beim Bau von Drohnen",
       "summary": "Ukrainische Drohnen sollen künftig auch in Großbritannien produziert werden.",
       "url": "https://www.deutschlandfunk.de/london-und-kiew-vereinbaren-kooperation-beim-bau-von-drohnen-106.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-22T13:01:54Z"
+      "published": "2026-11-22T17:48:31Z"
     },
     {
-      "title": "Gesetzesentwurf - Justizministerin Hubig: Femizide sollen eindeutig als Mord gelten",
+      "title": "Gesetzesentwurf - Justizministerin Hubig: \"Femizide sollen eindeutig als Mord gelten\"",
       "summary": "Bundesjustizministerin Hubig will den Mordparagrafen im Strafgesetzbuch verschärfen und Femizide eindeutig als Mord erfassen. Künftig sollten geschlechtsspezifische oder sonstige menschenverachtende Beweggründe ausdrücklich als Mordmerkmal ",
       "url": "https://www.deutschlandfunk.de/justizministerin-hubig-femizide-sollen-eindeutig-als-mord-gelten-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-22T13:01:54Z"
+      "published": "2026-11-22T17:48:31Z"
     }
   ]
 }
