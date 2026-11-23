@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-11-23T06:17:07Z",
+  "updated_at": "2026-11-23T09:35:29Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
+    {
+      "title": "Medienberichte - Russland soll erste Atomwaffen-Stationierung im Weltall vorbereiten",
+      "summary": "Russland will nach Einschätzung westlicher Geheimdienste offenbar noch in diesem Jahr einen Satelliten mit einem Atomsprengkopf in den Weltraum bringen.",
+      "url": "https://www.deutschlandfunk.de/russland-soll-erste-atomwaffen-stationierung-im-weltall-vorbereiten-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-23T09:24:01Z"
+    },
     {
       "title": "Krieg gegen die Ukraine: Tote nach Angriff auf Mehrfamilienhaus",
       "summary": "Das russische Militär geht weiter unvermindert gegen die Zivilbevölkerung in der Ukraine vor. Mindestens zehn Menschen wurden getötet, als in der Nacht zu Sonntag ein Wohnhaus in der Region Kiew angegriffen wurde.",
@@ -10,18 +17,11 @@
       "published": "2026-11-23T04:43:07Z"
     },
     {
-      "title": "Tarifverhandlungen - Weitere Warnstreiks in der Metall- und Elektroindustrie",
-      "summary": "In den Tarifverhandlungen der Metall- und Elektroindustrie hat die IG Metall für heute zu weiteren Warnstreiks aufgerufen.",
-      "url": "https://www.deutschlandfunk.de/weitere-warnstreiks-in-der-metall-und-elektroindustrie-104.html",
+      "title": "Midterms - US-Demokraten gewinnen weiteren Sitz im Repräsentantenhaus",
+      "summary": "In den USA hat die Demokratische Partei einen weiteren Sitz im Repräsentantenhaus gewonnen.",
+      "url": "https://www.deutschlandfunk.de/us-demokraten-gewinnen-weiteren-sitz-im-repraesentantenhaus-104.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-23T05:55:54Z"
-    },
-    {
-      "title": "Mutmaßlicher Drohnenangriff - Explosion auf russischem Schiff in Libyen",
-      "summary": "Ein russisches Schiff ist an einem Marinestützpunkt im libyschen Bengasi nach Angaben der dortigen Behörden vermutlich von einer Drohne getroffen und versenkt worden.",
-      "url": "https://www.deutschlandfunk.de/explosion-auf-russischem-schiff-in-libyen-112.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-23T05:55:54Z"
+      "published": "2026-11-23T09:24:01Z"
     }
   ]
 }
