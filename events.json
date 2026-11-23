@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T06:31:53.272691+00:00",
+  "updated_at": "2026-11-23T12:20:27.618526+00:00",
   "source": "Eventsimple, EventIndex, Evensos (when available)",
   "events": [
     {
@@ -10,10 +10,52 @@
       "category": "ESSEN"
     },
     {
+      "title": "Weihnachtsdorf im Kaiserhof der Residenz",
+      "url": "https://www.dasweihnachtsdorf.de/",
+      "when": "Heute",
+      "venue": "Kaiserhof der Münchner Residenz",
+      "category": "MARKT"
+    },
+    {
+      "title": "Weihnachtsmarkt am Chinesischen Turm",
+      "url": "https://weihnachtsmarkt-chinaturm.de/",
+      "when": "Heute",
+      "venue": "Chinesischer Turm im Englischen Garten",
+      "category": "MARKT"
+    },
+    {
+      "title": "Christkindlmarkt am Sendlinger Tor",
+      "url": "https://www.sendlingertor.com/",
+      "when": "Heute",
+      "venue": "Sendlinger Tor",
+      "category": "MARKT"
+    },
+    {
+      "title": "Mittelaltermarkt am Wittelsbacherplatz",
+      "url": "https://www.mittelaltermarkt-muenchen.de/",
+      "when": "Heute",
+      "venue": "Wittelsbacherplatz",
+      "category": "MARKT"
+    },
+    {
+      "title": "Pink Christmas 2026",
+      "url": "https://eventsimple.de/veranstaltung/13710-pink-christmas-2026",
+      "when": "Heute",
+      "venue": "Stephansplatz",
+      "category": "MARKT"
+    },
+    {
       "title": "Münchner Christkindlmarkt 2026",
       "url": "https://www.christkindlmarkt-muenchen.de/en/home",
       "when": "Heute",
       "venue": "Marienplatz",
+      "category": "MARKT"
+    },
+    {
+      "title": "Schwabinger Weihnachtsmarkt",
+      "url": "https://www.schwabingerweihnachtsmarkt.de/",
+      "when": "Wed 25.11.",
+      "venue": "Münchner Freiheit",
       "category": "MARKT"
     },
     {
@@ -22,54 +64,12 @@
       "when": "Fri 27.11.",
       "venue": "Marienplatz",
       "category": "MARKT"
-    },
-    {
-      "title": "Tollwood Winterfestival 2026",
-      "url": "https://www.tollwood.de",
-      "when": "Tue 24.11.",
-      "venue": "Theresienwiese",
-      "category": "FESTIVAL"
-    },
-    {
-      "title": "Munich Knits Yarn & Craft Festival",
-      "url": "https://www.messen.de/de/23570/muenchen/munich-knits-yarn-craft-festival/info",
-      "when": "Fri 27.11.",
-      "venue": "MTC world of fashion München",
-      "category": "FESTIVAL"
-    },
-    {
-      "title": "Heim+Handwerk",
-      "url": "https://www.messen.de/de/10271/muenchen/heimhandwerk/info",
-      "when": "Wed 25.11.",
-      "venue": "Messe München",
-      "category": "ESSEN"
-    },
-    {
-      "title": "Steina: Playback",
-      "url": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/steina-playback",
-      "when": "Heute",
-      "venue": "Haus der Kunst",
-      "category": "KUNST"
-    },
-    {
-      "title": "Between and Beyond. Der erweiterte Bildraum",
-      "url": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/between-and-beyond",
-      "when": "Heute",
-      "venue": "Pinakothek der Moderne",
-      "category": "KUNST"
-    },
-    {
-      "title": "Freie Maschinen",
-      "url": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/freie-maschinen",
-      "when": "Heute",
-      "venue": "Deutsches Museum München",
-      "category": "KUNST"
     }
   ],
   "source_stats": {
     "Eventsimple": {
-      "raw": 16,
-      "eligible": 16,
+      "raw": 22,
+      "eligible": 22,
       "status": "ok"
     },
     "EventIndex": {
