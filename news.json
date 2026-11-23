@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-22T17:51:31Z",
+  "updated_at": "2026-11-23T06:17:07Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Südostasien - 39 Vermisste nach Brand in Süßwarenfabrik in Indonesien",
-      "summary": "In Indonesien werden nach einem Brand in einer Süßwarenfabrik 39 Menschen vermisst.",
-      "url": "https://www.deutschlandfunk.de/39-vermisste-nach-brand-in-suesswarenfabrik-in-indonesien-100.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-22T17:48:31Z"
+      "title": "Krieg gegen die Ukraine: Tote nach Angriff auf Mehrfamilienhaus",
+      "summary": "Das russische Militär geht weiter unvermindert gegen die Zivilbevölkerung in der Ukraine vor. Mindestens zehn Menschen wurden getötet, als in der Nacht zu Sonntag ein Wohnhaus in der Region Kiew angegriffen wurde.",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
+      "source": "tagesschau",
+      "published": "2026-11-23T04:43:07Z"
     },
     {
-      "title": "Ukraine-Krieg - London und Kiew vereinbaren Kooperation beim Bau von Drohnen",
-      "summary": "Ukrainische Drohnen sollen künftig auch in Großbritannien produziert werden.",
-      "url": "https://www.deutschlandfunk.de/london-und-kiew-vereinbaren-kooperation-beim-bau-von-drohnen-106.html",
+      "title": "Tarifverhandlungen - Weitere Warnstreiks in der Metall- und Elektroindustrie",
+      "summary": "In den Tarifverhandlungen der Metall- und Elektroindustrie hat die IG Metall für heute zu weiteren Warnstreiks aufgerufen.",
+      "url": "https://www.deutschlandfunk.de/weitere-warnstreiks-in-der-metall-und-elektroindustrie-104.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-22T17:48:31Z"
+      "published": "2026-11-23T05:55:54Z"
     },
     {
-      "title": "Gesetzesentwurf - Justizministerin Hubig: \"Femizide sollen eindeutig als Mord gelten\"",
-      "summary": "Bundesjustizministerin Hubig will den Mordparagrafen im Strafgesetzbuch verschärfen und Femizide eindeutig als Mord erfassen. Künftig sollten geschlechtsspezifische oder sonstige menschenverachtende Beweggründe ausdrücklich als Mordmerkmal ",
-      "url": "https://www.deutschlandfunk.de/justizministerin-hubig-femizide-sollen-eindeutig-als-mord-gelten-100.html",
+      "title": "Mutmaßlicher Drohnenangriff - Explosion auf russischem Schiff in Libyen",
+      "summary": "Ein russisches Schiff ist an einem Marinestützpunkt im libyschen Bengasi nach Angaben der dortigen Behörden vermutlich von einer Drohne getroffen und versenkt worden.",
+      "url": "https://www.deutschlandfunk.de/explosion-auf-russischem-schiff-in-libyen-112.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-22T17:48:31Z"
+      "published": "2026-11-23T05:55:54Z"
     }
   ]
 }
