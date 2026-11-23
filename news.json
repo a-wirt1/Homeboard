@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-11-23T09:35:29Z",
+  "updated_at": "2026-11-23T13:31:53Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
-    {
-      "title": "Medienberichte - Russland soll erste Atomwaffen-Stationierung im Weltall vorbereiten",
-      "summary": "Russland will nach Einschätzung westlicher Geheimdienste offenbar noch in diesem Jahr einen Satelliten mit einem Atomsprengkopf in den Weltraum bringen.",
-      "url": "https://www.deutschlandfunk.de/russland-soll-erste-atomwaffen-stationierung-im-weltall-vorbereiten-100.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-23T09:24:01Z"
-    },
     {
       "title": "Krieg gegen die Ukraine: Tote nach Angriff auf Mehrfamilienhaus",
       "summary": "Das russische Militär geht weiter unvermindert gegen die Zivilbevölkerung in der Ukraine vor. Mindestens zehn Menschen wurden getötet, als in der Nacht zu Sonntag ein Wohnhaus in der Region Kiew angegriffen wurde.",
@@ -17,11 +10,18 @@
       "published": "2026-11-23T04:43:07Z"
     },
     {
-      "title": "Midterms - US-Demokraten gewinnen weiteren Sitz im Repräsentantenhaus",
-      "summary": "In den USA hat die Demokratische Partei einen weiteren Sitz im Repräsentantenhaus gewonnen.",
-      "url": "https://www.deutschlandfunk.de/us-demokraten-gewinnen-weiteren-sitz-im-repraesentantenhaus-104.html",
+      "title": "Nachfolge von Aiwanger: Tobias Gotthardt wird Wirtschaftsminister",
+      "summary": "Nach dem plötzlichen Tod von Bayerns Wirtschaftsminister Aiwanger soll Staatssekretär Gotthardt als Wirtschaftsminister folgen. Der Landesverband wird künftig von einer Doppelspitze geführt.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-nachfolge-gotthardt-100.html",
+      "source": "tagesschau",
+      "published": "2026-11-23T12:17:05Z"
+    },
+    {
+      "title": "Medienberichte - Russland soll erste Atomwaffen-Stationierung im Weltall vorbereiten",
+      "summary": "Russland könnte nach Einschätzung westlicher Geheimdienste noch in diesem Jahr einen Satelliten mit einem Atomsprengkopf in den Weltraum bringen.",
+      "url": "https://www.deutschlandfunk.de/russland-soll-erste-atomwaffen-stationierung-im-weltall-vorbereiten-114.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-23T09:24:01Z"
+      "published": "2026-11-23T13:29:59Z"
     }
   ]
 }
