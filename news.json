@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-23T13:31:53Z",
+  "updated_at": "2026-11-23T18:10:00Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Krieg gegen die Ukraine: Tote nach Angriff auf Mehrfamilienhaus",
-      "summary": "Das russische Militär geht weiter unvermindert gegen die Zivilbevölkerung in der Ukraine vor. Mindestens zehn Menschen wurden getötet, als in der Nacht zu Sonntag ein Wohnhaus in der Region Kiew angegriffen wurde.",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
-      "source": "tagesschau",
-      "published": "2026-11-23T04:43:07Z"
-    },
-    {
-      "title": "Nachfolge von Aiwanger: Tobias Gotthardt wird Wirtschaftsminister",
-      "summary": "Nach dem plötzlichen Tod von Bayerns Wirtschaftsminister Aiwanger soll Staatssekretär Gotthardt als Wirtschaftsminister folgen. Der Landesverband wird künftig von einer Doppelspitze geführt.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-nachfolge-gotthardt-100.html",
-      "source": "tagesschau",
-      "published": "2026-11-23T12:17:05Z"
-    },
-    {
-      "title": "Medienberichte - Russland soll erste Atomwaffen-Stationierung im Weltall vorbereiten",
-      "summary": "Russland könnte nach Einschätzung westlicher Geheimdienste noch in diesem Jahr einen Satelliten mit einem Atomsprengkopf in den Weltraum bringen.",
-      "url": "https://www.deutschlandfunk.de/russland-soll-erste-atomwaffen-stationierung-im-weltall-vorbereiten-114.html",
+      "title": "Sicherheitspolitik - Bundeskanzler Merz: Ukraine sollte nach dem Krieg NATO-ähnliche Sicherheitsgarantien erhalten",
+      "summary": "Bundeskanzler Merz hat es rückblickend als Fehler bezeichnet, dass im Jahr 2008 auf dem NATO-Gipfel in Bukarest nicht dem US-Vorschlag gefolgt wurde, die Ukraine in das Bündnis aufzunehmen. Der Ukraine-Krieg wäre wahrscheinlich zu verhinder",
+      "url": "https://www.deutschlandfunk.de/bundeskanzler-merz-ukraine-sollte-nach-dem-krieg-nato-aehnliche-sicherheitsgarantien-erhalten-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-23T13:29:59Z"
+      "published": "2026-11-23T18:04:16Z"
+    },
+    {
+      "title": "Abwehrkampf gegen Russland - Ukraine bekennt sich zum Versenken von russischem Kriegsschiff vor libyscher Küste",
+      "summary": "Die Ukraine hat sich zum Versenken eines russischen Kriegsschiffs im Mittelmeerhafen der libyschen Stadt Bengasi bekannt. Präsident Selenskyj teilte mit, man habe die Korvette \"Merkury\" mit sieben Seedrohnen angegriffen. Dabei sei auch ein ",
+      "url": "https://www.deutschlandfunk.de/ukraine-bekennt-sich-zum-versenken-von-russischem-kriegsschiff-vor-libyscher-kueste-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-23T18:04:16Z"
+    },
+    {
+      "title": "Chiphersteller - Nvidia beruft Ex-Chef Huang zurück an die Firmenspitze - Aktienkurs steigt deutlich",
+      "summary": "‌Der ⁠Chipkonzern Nvidia holt ⁠seinen - wegen eines Spionageskandals zurückgetretenen - Vorstandschef Jensen Huang ⁠zurück. ⁠Huang sei mit sofortiger Wirkung ⁠wieder ⁠Konzernchef, ‌erklärte der Vorstand. Man sehe darin nach Rücksprache mit ",
+      "url": "https://www.deutschlandfunk.de/nvidia-beruft-ex-chef-huang-zurueck-an-die-firmenspitze-aktienkurs-steigt-deutlich-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-23T18:04:16Z"
     }
   ]
 }
