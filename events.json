@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-24T18:11:37.176170+00:00",
+  "updated_at": "2026-11-25T06:20:54.657214+00:00",
   "source": "Eventsimple, EventIndex, Evensos (when available)",
   "events": [
     {
       "title": "FOOD & LIFE",
       "url": "https://www.messen.de/de/8447/muenchen/food-life/info",
-      "when": "Wed 25.11.",
+      "when": "Heute",
       "venue": "Messe München",
       "category": "ESSEN"
     },
@@ -54,7 +54,7 @@
     {
       "title": "Schwabinger Weihnachtsmarkt",
       "url": "https://www.schwabingerweihnachtsmarkt.de/",
-      "when": "Wed 25.11.",
+      "when": "Heute",
       "venue": "Münchner Freiheit",
       "category": "MARKT"
     },
@@ -68,8 +68,8 @@
   ],
   "source_stats": {
     "Eventsimple": {
-      "raw": 23,
-      "eligible": 23,
+      "raw": 24,
+      "eligible": 24,
       "status": "ok"
     },
     "EventIndex": {
