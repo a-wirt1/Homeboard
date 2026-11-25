@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-25T09:24:22Z",
+  "updated_at": "2026-11-25T13:35:12Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
       "title": "Orange Day - Aktionstag gegen Gewalt gegen Frauen - Schweigeminute im Bundestag",
-      "summary": "Am sogenannten Orange Day wird heute an Frauen erinnert, die Opfer von Gewalt geworden sind. Am internationalen Tag zur Beseitigung von Gewalt gegen Frauen sollen in Berlin mehrere Bundesministerien orange angestrahlt werden. Bundestagspräs",
+      "summary": "Am heutigen \"Orange Day\" wird weltweit an die Opfer von Gewalt gegen Frauen und Mädchen erinnert. In vielen Ländern - auch in Deutschland - werden Gebäude in Orange angestrahlt, neben Rathäusern und Ministerien auch wichtige Kulturdenkmäler",
       "url": "https://www.deutschlandfunk.de/aktionstag-gegen-gewalt-gegen-frauen-schweigeminute-im-bundestag-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-25T09:18:56Z"
-    },
-    {
-      "title": "Medienberichte - Taliban blockieren offenbar geplanten Abschiebeflug nach Afghanistan - Druck auf die Bundesregierung",
-      "summary": "Ein geplanter Abschiebeflug nach Kabul ist offenbar von afghanischer Seite abgesagt worden.",
-      "url": "https://www.deutschlandfunk.de/taliban-blockieren-offenbar-geplanten-abschiebeflug-nach-afghanistan-druck-auf-die-bundesregierung-106.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-25T09:18:56Z"
+      "published": "2026-11-25T13:32:24Z"
     },
     {
       "title": "Chinesischer Technologiekonzern - US-Gericht spricht Huawei der Industriespionage schuldig",
       "summary": "Ein Bundesgericht in New York hat den chinesischen Technologiekonzern Huawei unter anderem der Industriespionage und Geldwäsche schuldig gesprochen.",
       "url": "https://www.deutschlandfunk.de/us-gericht-spricht-huawei-der-industriespionage-schuldig-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-25T09:18:56Z"
+      "published": "2026-11-25T13:32:24Z"
+    },
+    {
+      "title": "Berlin - Nach Ausschluss aus der Linken-Fraktion: Landesvorsitzende Wolter fordert Vanessa Emde erneut zum Mandatsverzicht auf",
+      "summary": "Die Landesvorsitzende der Berliner Linken, Wolter, hat die aus der Fraktion ausgeschlossene Politikerin Emde erneut aufgefordert, auch ihr Mandat für das Abgeordnetenhaus niederzulegen. Das wäre folgerichtig, sagte Wolter im Deutschlandfunk",
+      "url": "https://www.deutschlandfunk.de/nach-ausschluss-aus-der-linken-fraktion-landesvorsitzende-wolter-fordert-vanessa-emde-erneut-zum-man-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-25T13:32:24Z"
     }
   ]
 }
