@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T06:20:43.871128+00:00",
+  "updated_at": "2026-11-26T12:23:11.541919+00:00",
   "source": "Eventsimple, EventIndex, Evensos (when available)",
   "events": [
     {
@@ -75,7 +75,7 @@
     "EventIndex": {
       "raw": 0,
       "eligible": 0,
-      "status": "error: unexpected EventIndex response (keys=@context,data,meta)"
+      "status": "error: The read operation timed out"
     },
     "Evensos": {
       "raw": 0,
