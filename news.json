@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-26T13:33:40Z",
+  "updated_at": "2026-11-26T18:00:31Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Krieg gegen die Ukraine: Angriffe auf Kiew - Tote in Saporischschja",
-      "summary": "Russland hat die Ukraine wieder massiv angegriffen. Auch bei einem ukrainischen Drohnenangriff im russisch besetzten Teil von Saporischschja gab es Tote. Beide Seiten tauschten die Leichen gefallener Soldaten aus.",
-      "url": "https://www.tagesschau.de/ausland/europa/tote-nach-russischen-angriffen-ukraine-100.html",
+      "title": "Ukraine-Krieg - Austausch gefallener Soldaten – Gegenseitige Angriffe gehen weiter",
+      "summary": "Die Ukraine und Russland haben nach der Wiederaufnahme ihrer Verhandlungen unter US-Vermittlung erneut gefallene Soldaten überführt.",
+      "url": "https://www.deutschlandfunk.de/austausch-gefallener-soldaten-gegenseitige-angriffe-gehen-weiter-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-26T17:56:40Z"
+    },
+    {
+      "title": "Spanier Hernández de Cos soll Nachfolger von EZB-Chefin Lagarde werden",
+      "summary": "EZB-Chefin Lagarde hatte angekündigt, ihren Posten im Februar aufzugeben. Nun ist die Nachfolge geklärt: Die EU-Spitzen einigten sich auf den Spanier Hernández de Cos. Ein Deutscher ist als Chefvolkswirt vorgesehen.",
+      "url": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html",
       "source": "tagesschau",
-      "published": "2026-11-26T13:20:47Z"
+      "published": "2026-11-26T17:28:08Z"
     },
     {
-      "title": "Krieg - Trump und Rutte warnen Russland vor Ausweitung seines Krieges in der Ukraine",
-      "summary": "US-Präsident Trump und NATO-Generalsekretär Rutte haben Russland vor einer Ausweitung des Krieges in der ⁠Ukraine ⁠gewarnt.",
-      "url": "https://www.deutschlandfunk.de/trump-und-rutte-warnen-russland-vor-ausweitung-seines-krieges-in-der-ukraine-100.html",
+      "title": "Bundestag - Linken-Abgeordneten drohen Konsequenzen nach Blockade-Aktion gegen Ex-Mossad-Chef Barnea",
+      "summary": "Die Protestaktion von Linken-Abgeordneten bei einer Bundestags-Veranstaltung mit Israels Ex-Geheimdienstchef Barnea hat Konsequenzen.",
+      "url": "https://www.deutschlandfunk.de/linken-abgeordneten-drohen-konsequenzen-nach-blockade-aktion-gegen-ex-mossad-chef-barnea-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-26T13:07:29Z"
-    },
-    {
-      "title": "Deutsche Ukraine-Hilfe - Ehemalige EKD-Vorsitzende Käßmann fordert Kurswechsel",
-      "summary": "In der Diskussion über die deutsche Unterstützung der Ukraine sieht sich die frühere EKD-Ratsvorsitzende Käßmann durch eine jüngste Studie der Körber-Stiftung bestätigt.",
-      "url": "https://www.deutschlandfunk.de/ehemalige-ekd-vorsitzende-kaessmann-fordert-kurswechsel-100.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-26T13:07:29Z"
+      "published": "2026-11-26T17:56:40Z"
     }
   ]
 }
