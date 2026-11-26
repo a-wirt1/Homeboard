@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-25T17:57:18Z",
+  "updated_at": "2026-11-26T06:08:00Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
-      "title": "Bundestag legt Schweigeminute für Opfer von Femiziden ein",
-      "summary": "Dass Bundestagspräsidentin Klöckner und viele andere bei der Generaldebatte Orange als Kleidungsfarbe gewählt hatten, war kein Zufall. Grund ist der Orange Day, an dem an Frauen erinnert wird, die Opfer von Gewalt wurden.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-orange-day-100.html",
-      "source": "tagesschau",
-      "published": "2026-11-25T10:55:47Z"
+      "title": "Krieg - Trump und Rutte warnen Russland vor Ausweitung seines Krieges in der Ukraine",
+      "summary": "US-Präsident Trump und NATO-Generalsekretär Rutte haben Russland vor einer Ausweitung des Krieges in der ⁠Ukraine ⁠gewarnt.",
+      "url": "https://www.deutschlandfunk.de/trump-und-rutte-warnen-russland-vor-ausweitung-seines-krieges-in-der-ukraine-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-26T05:33:45Z"
     },
     {
-      "title": "Ukraine-Krieg - Gemischte Reaktionen nach ukrainischem Angriff auf russische Schiffe vor Libyen",
-      "summary": "Die ukrainischen Angriffe auf zwei russische Schiffe vor der libyschen Küste stoßen international auf gemischte Reaktionen.",
-      "url": "https://www.deutschlandfunk.de/gemischte-reaktionen-nach-ukrainischem-angriff-auf-russische-schiffe-vor-libyen-100.html",
+      "title": "\"Respekt-Rente\" - Union schlägt Kompromiss im Streit um \"Rente mit 63\" vor",
+      "summary": "Die Union hat im koalitionsinternen Streit um die abschlagsfreie Frühverrentung nach 45 Beitragsjahren einen Kompromissvorschlag vorgelegt. Ein entsprechendes Papier liegt unserem Hauptstadtstudio vor.",
+      "url": "https://www.deutschlandfunk.de/union-schlaegt-kompromiss-im-streit-um-rente-mit-63-vor-106.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-25T17:28:08Z"
+      "published": "2026-11-26T05:33:45Z"
     },
     {
-      "title": "Generaldebatte im Bundestag - Merz: Von sozialem Kahlschlag kann keine Rede sein",
-      "summary": "Bundeskanzler Merz hat Einschnitte bei den Sozialausgaben verteidigt. Wenn nicht umgesteuert werde, drohe in wenigen Jahren die Situation, dass alle Einnahmen des Bundes für Soziales, Zinsen und Verteidigung ausgegeben werden müssten, sagte",
-      "url": "https://www.deutschlandfunk.de/merz-von-sozialem-kahlschlag-kann-keine-rede-sein-100.html",
+      "title": "Trump-Regierung - USA kündigen neue Zölle gegen EU, China und andere Handelspartner an",
+      "summary": "Die US-Regierung ‌plant ⁠neue Zölle ⁠gegen die Europäische Union und 13 weitere Wirtschaftspartner. Der Handelsbeauftragte Greer kündigte die Sonderabgaben nach dem Abschluss einer Untersuchung an, die sich mit unfairen Praktiken befasst ha",
+      "url": "https://www.deutschlandfunk.de/usa-kuendigen-neue-zoelle-gegen-eu-china-und-andere-handelspartner-an-102.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-25T17:28:08Z"
+      "published": "2026-11-26T05:33:45Z"
     }
   ]
 }
