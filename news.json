@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-27T09:21:42Z",
+  "updated_at": "2026-11-27T13:28:41Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
+    {
+      "title": "Medien - KI-Anbieter sollen für Inhalte zahlen - Bundesregierung drängt auf neue EU-Vergütung",
+      "summary": "Die Bundesregierung strebt in der Europäischen Union eine neue Zahlungspflicht für KI-Anbieter an.",
+      "url": "https://www.deutschlandfunk.de/ki-anbieter-sollen-fuer-inhalte-zahlen-bundesregierung-draengt-auf-neue-eu-verguetung-100.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-27T13:14:55Z"
+    },
     {
       "title": "Ukraine-Krieg - IAEA besorgt wegen weiteren Stromausfalls am Atomkraftwerk Saporischschja",
       "summary": "Die ⁠Internationale Atomenergiebehörde hat vor Gefahren durch den erneuten Stromausfall am ukrainischen ‌Atomkraftwerk ⁠Saporischschja gewarnt.",
       "url": "https://www.deutschlandfunk.de/iaea-besorgt-wegen-weiteren-stromausfalls-am-atomkraftwerk-saporischschja-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-27T08:54:08Z"
+      "published": "2026-11-27T13:14:55Z"
     },
     {
       "title": "Wirtschaft - Einigung in der Metall- und Elektroindustrie \"klares Zukunftssignal\"",
       "summary": "Vertreter von Gewerkschaft und Arbeitgebern haben sich zufrieden mit dem Ergebnis des Tarifabschlusses in der Metall- und Elektroindustrie gezeigt. Sie sprachen von etwas \"Besonderem\", beziehungsweise etwas \"Außergewöhnlichem\", das in den G",
       "url": "https://www.deutschlandfunk.de/einigung-in-der-metall-und-elektroindustrie-klares-zukunftssignal-104.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-27T08:54:08Z"
-    },
-    {
-      "title": "Frankreich - Gérard Depardieu soll wegen mutmaßlicher Vergewaltigung vor Gericht",
-      "summary": "Ein Pariser Berufungsgericht hat angeordnet, ein Hauptverfahren gegen den Schauspieler Gérard Depardieu wegen des Vorwurfs der Vergewaltigung zu eröffnen. Eine Schauspielerin wirft Depardieu vor, sie 2018 in seiner Pariser Villa im Abstand ",
-      "url": "https://www.deutschlandfunk.de/g-rard-depardieu-soll-wegen-mutmasslicher-vergewaltigung-vor-gericht-112.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-27T08:54:08Z"
+      "published": "2026-11-27T13:14:55Z"
     }
   ]
 }
