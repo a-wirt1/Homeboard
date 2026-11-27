@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T18:10:19.310576+00:00",
+  "updated_at": "2026-11-27T06:23:32.562441+00:00",
   "source": "Eventsimple, EventIndex, Evensos (when available)",
   "events": [
     {
@@ -61,15 +61,15 @@
     {
       "title": "Münchner Christkindlmarkt 2026",
       "url": "https://www.christkindlmarkt-muenchen.de/",
-      "when": "Fri 27.11.",
+      "when": "Heute",
       "venue": "Marienplatz",
       "category": "MARKT"
     }
   ],
   "source_stats": {
     "Eventsimple": {
-      "raw": 23,
-      "eligible": 22,
+      "raw": 21,
+      "eligible": 20,
       "status": "ok"
     },
     "EventIndex": {
