@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-28T06:10:40Z",
+  "updated_at": "2026-11-28T09:01:35Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
+    {
+      "title": "Ukraine-Krieg - Hunderte Drohnen auf dem Weg nach Moskau abgefangen",
+      "summary": "Die russische Luftabwehr hat in der Nacht nach offizieller Darstellung erneut hunderte Drohnen auf dem Weg nach Moskau abgefangen.",
+      "url": "https://www.deutschlandfunk.de/hunderte-drohnen-auf-dem-weg-nach-moskau-abgefangen-102.html",
+      "source": "Deutschlandfunk",
+      "published": "2026-11-28T08:57:00Z"
+    },
     {
       "title": "Sozialpolitik - Bundesarbeitsminister Schweitzer verteidigt Entwurf für Rentenreform",
       "summary": "Bundesarbeitsminister Schweitzer hat seinen Entwurf für eine Rentenreform verteidigt. Der SPD-Politiker sprach in der ARD von einem tragfähigen Kompromissvorschlag. Auch seien die Gemeinsamkeiten in der schwarz-roten Koalition größer als di",
       "url": "https://www.deutschlandfunk.de/bundesarbeitsminister-schweitzer-verteidigt-entwurf-fuer-rentenreform-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-28T05:24:03Z"
+      "published": "2026-11-28T08:57:00Z"
     },
     {
-      "title": "Iran-Konflikt - US-Militär meldet Angriff auf Handelsschiff im Golf von Oman",
-      "summary": "Das US-Militär hat nach eigenen Angaben ein Handelsschiff im Golf von Oman angegriffen.",
-      "url": "https://www.deutschlandfunk.de/us-militaer-meldet-angriff-auf-handelsschiff-im-golf-von-oman-110.html",
+      "title": "Erderwärmung - Umweltminister Schneider für Umbau an Rhein",
+      "summary": "Bundesumweltminister Schneider plädiert angesichts des voranschreitenden Klimawandels für Änderungen am Rhein.",
+      "url": "https://www.deutschlandfunk.de/umweltminister-schneider-fuer-umbau-an-rhein-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-28T05:24:03Z"
-    },
-    {
-      "title": "Parteien - BSW-Parteitag in Dresden: Streit über Umgang mit der AfD",
-      "summary": "Auf dem BSW-Bundesparteitag ringen die Delegierten über den künftigen Kurs.",
-      "url": "https://www.deutschlandfunk.de/bsw-parteitag-in-dresden-streit-ueber-umgang-mit-der-afd-110.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-28T05:24:03Z"
+      "published": "2026-11-28T08:57:00Z"
     }
   ]
 }
