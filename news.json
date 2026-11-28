@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-28T09:01:35Z",
+  "updated_at": "2026-11-28T13:12:14Z",
   "method": "Automatische Auswahl aus RSS-Feeds nach Aktualität, Themengewichtung und Quellenübereinstimmung; keine redaktionelle Rangliste.",
   "stories": [
     {
       "title": "Ukraine-Krieg - Hunderte Drohnen auf dem Weg nach Moskau abgefangen",
-      "summary": "Die russische Luftabwehr hat in der Nacht nach offizieller Darstellung erneut hunderte Drohnen auf dem Weg nach Moskau abgefangen.",
+      "summary": "Die russische Flugabwehr hat in der Nacht nach offizieller Darstellung erneut hunderte Drohnen auf dem Weg nach Moskau abgefangen.",
       "url": "https://www.deutschlandfunk.de/hunderte-drohnen-auf-dem-weg-nach-moskau-abgefangen-102.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-28T08:57:00Z"
+      "published": "2026-11-28T12:51:46Z"
     },
     {
-      "title": "Sozialpolitik - Bundesarbeitsminister Schweitzer verteidigt Entwurf für Rentenreform",
-      "summary": "Bundesarbeitsminister Schweitzer hat seinen Entwurf für eine Rentenreform verteidigt. Der SPD-Politiker sprach in der ARD von einem tragfähigen Kompromissvorschlag. Auch seien die Gemeinsamkeiten in der schwarz-roten Koalition größer als di",
-      "url": "https://www.deutschlandfunk.de/bundesarbeitsminister-schweitzer-verteidigt-entwurf-fuer-rentenreform-100.html",
-      "source": "Deutschlandfunk",
-      "published": "2026-11-28T08:57:00Z"
+      "title": "Datenleak zeigt Ausmaß russischer Verluste im Krieg gegen die Ukraine",
+      "summary": "Russland hält die offiziellen Zahlen zu seinen Verlusten im Ukraine-Krieg unter Verschluss. Nun liefert ein Hackerangriff auf die Statistikbehörde Einblicke - und gibt Hinweise auf Hunderttausende getötete russische Soldaten. Von L. Becker.",
+      "url": "https://www.tagesschau.de/ausland/europa/russland-rosstat-datenleak-hacker-100.html",
+      "source": "tagesschau",
+      "published": "2026-11-28T12:16:17Z"
     },
     {
-      "title": "Erderwärmung - Umweltminister Schneider für Umbau an Rhein",
-      "summary": "Bundesumweltminister Schneider plädiert angesichts des voranschreitenden Klimawandels für Änderungen am Rhein.",
-      "url": "https://www.deutschlandfunk.de/umweltminister-schneider-fuer-umbau-an-rhein-100.html",
+      "title": "Sozialpolitik - Union und SPD diskutieren weiter über Rentenreform - Kritik der Arbeitgeber",
+      "summary": "Die Diskussion in der Koalition über die Rentenreform geht weiter. CDU und CSU kritisierten vor allem, dass Bundesarbeitsminister Schweitzer die abschlagsfreie Frührente nach 45 Beitragsjahren im Kern erhalten will, auch wenn er den Kreis d",
+      "url": "https://www.deutschlandfunk.de/union-und-spd-diskutieren-weiter-ueber-rentenreform-kritik-der-arbeitgeber-100.html",
       "source": "Deutschlandfunk",
-      "published": "2026-11-28T08:57:00Z"
+      "published": "2026-11-28T12:51:46Z"
     }
   ]
 }
